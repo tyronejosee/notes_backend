@@ -2,9 +2,10 @@
 
 ## Introducción
 
-- pass
+- [Backend y Frontend](pendient/)
+- [Backend Developer](pendient/)
 
-## Fundamentos WEB
+## Fundamentos de Internet y la Web
 
 - [HTTP](pendient/)
 - [Navegadores](pendient/)
@@ -27,11 +28,11 @@
 
 ## Sistemas de Control de Versiones
 
-Control de Versiones:
+**Control de Versiones:**
 
 - [Git](pendient/)
 
-Servicios de Repositorios:
+**Servicios de Repositorios:**
 
 - [GitHub](pendient/)
 - [GitLab](pendient/)
@@ -49,6 +50,8 @@ Servicios de Repositorios:
 - [Bases de Datos](pendient/)
 - [SQL](pendient/)
 
+**Relacionales:**
+
 - [PostgreSQL](pendient/)
 - [MySQL](pendient/)
 - [MariaDB](pendient/)
@@ -65,9 +68,17 @@ Servicios de Repositorios:
 
 ## Caché
 
-## Seguridad WEB
+- [Lado del Cliente](pendient/)
+- [Lado del Servidor](pendient/)
+- [CDN](pendient/)
+
+## Seguridad Web
 
 ## Pruebas o Testing
+
+- [Pruebas Unitarias](pendient/)
+- [Pruebas de Integración](pendient/)
+- [Pruebas Funcionales](pendient/)
 
 ## CI/CD
 
@@ -88,3 +99,5 @@ Servicios de Repositorios:
 ## Contruyendo para Escalar
 
 ## Glosarios
+
+## Recursos de Interés
