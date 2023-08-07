@@ -202,7 +202,7 @@
 
 - [Glosarío](pendient/)
 
-## 📌 Recursos de Interés
+## 📌 Recursos Adicionales
 
 - [Páginas](pendient/)
 - [Creadores](pendient/)
