@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/tyronejosee/docs_backend#gh-light-mode-only" target="_blank">
-    <img src="./assets/logo_light.svg" alt="logo-light" width="400">
+    <img src="./assets/logo_light.svg" alt="logo-light" width="300">
   </a>
   <a href="https://github.com/tyronejosee/docs_backend#gh-dark-mode-only" target="_blank">
-    <img src="./assets/logo_dark.svg" alt="logo-dark" width="400">
+    <img src="./assets/logo_dark.svg" alt="logo-dark" width="300">
   </a>
 </p>
 
@@ -23,10 +23,10 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 <p align="center">
   <a href="https://github.com/tyronejosee/docs_backend/blob/main/docs/spa/index.md#gh-light-mode-only" target="_blank">
-    <img src="./assets/buttom_index_light.svg" alt="logo-light" width="150">
+    <img src="./assets/buttom_index_light.svg" alt="logo-light" width="200">
   </a>
   <a href="https://github.com/tyronejosee/docs_backend/blob/main/docs/spa/index.md#gh-dark-mode-only" target="_blank">
-    <img src="./assets/buttom_index_dark.svg" alt="logo-dark" width="150">
+    <img src="./assets/buttom_index_dark.svg" alt="logo-dark" width="200">
   </a>
 </p>
 
@@ -39,12 +39,3 @@ Este repositorio fue creado como una recopilación de recursos que han sido de g
 - La estructura del repositorio está organizada en una tabla de contenidos.
 - Se han utilizado etiquetas de vínculos para mejorar la experiencia de búsqueda y navegación.
 - Encontrarás enlaces a recursos adicionales, que complementarán tu conocimiento.
-
-## Enlaces de Interés
-
-- [Roadmap](https://roadmap.sh/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [ChatGPT](http://chat.openai.com/)
-- [Notion](https://www.notion.so/)
-- [Figma](https://www.figma.com/)

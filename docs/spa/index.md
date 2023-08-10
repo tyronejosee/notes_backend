@@ -113,6 +113,23 @@
 
 - [Neo4j](pendient/)
 
+**Más Acerca de Bases de Datos:**
+
+- [ORMs](pendient/)
+- [ACID](pendient/)
+- [Transactions](pendient/)
+- [N+1 Problem](pendient/)
+- [Normalization](pendient/)
+- [Failure Modes](pendient/)
+- [Profiling Perfor.](pendient/)
+
+**Escalando Bases de Datos:**
+
+- [](pendient/)
+- [](pendient/)
+- [](pendient/)
+- [](pendient/)
+
 ## 🔗 APIs
 
 - [REST](pendient/)
@@ -135,6 +152,8 @@
 
 - [Lado del Cliente](pendient/)
 - [Lado del Servidor](pendient/)
+  - [Redis](pendient/)
+  - [Memcached](pendient/)
 - [CDN](pendient/)
 
 ## 🔒 Seguridad Web
@@ -207,3 +226,12 @@
 - [Páginas](pendient/)
 - [Creadores](pendient/)
 - [Recursos](pendient/)
+
+## Enlaces de Interés
+
+- [Roadmap](https://roadmap.sh/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [ChatGPT](http://chat.openai.com/)
+- [Notion](https://www.notion.so/)
+- [Figma](https://www.figma.com/)
