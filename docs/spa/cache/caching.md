@@ -1,0 +1,3 @@
+# **Caché**
+
+El almacenamiento en caché es una técnica que consiste en almacenar datos o información frecuentemente utilizada en una memoria local durante un período de tiempo determinado. De esta manera, la próxima vez que el cliente solicite la misma información, en lugar de recuperarla de la base de datos, se proporcionará desde la memoria local. La principal ventaja del almacenamiento en caché es que mejora el rendimiento al reducir la carga de procesamiento.
