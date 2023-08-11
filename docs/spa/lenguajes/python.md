@@ -237,3 +237,18 @@ El diseño y la filosofía de Python han influido en muchos otros lenguajes de p
 - [Swift](https://es.wikipedia.org/wiki/Swift_(lenguaje_de_programaci%C3%B3n)), un lenguaje de programación desarrollado por Apple, tiene cierta sintaxis inspirada en Python.
 
 Las prácticas de desarrollo de Python también han sido imitadas por otros lenguajes. Por ejemplo, la práctica de requerir un documento que describa la justificación y los problemas en torno a un cambio en el lenguaje (en Python, un PEP) también se utiliza en [Tcl](https://es.wikipedia.org/wiki/Tcl), [Erlang](https://es.wikipedia.org/wiki/Erlang_(lenguaje_de_programaci%C3%B3n)) y Swift.
+
+## Enlaces de Interés
+
+- **[Visit Dedicated Python Roadmap](https://roadmap.sh/python)**
+- **[Python Website](https://www.python.org/)**
+- **[Python Getting Started](https://www.python.org/about/gettingstarted/)**
+- **[Automate the Boring Stuff](https://automatetheboringstuff.com/)**
+- **[FreeCodeCamp.org - How to Learn Python ?](https://www.freecodecamp.org/news/how-to-learn-python/)**
+- **[Python principles - Python basics](https://pythonprinciples.com/)**
+- **[W3Schools - Python Tutorial](https://www.w3schools.com/python/)**
+- **[Python Crash Course](https://ehmatthes.github.io/pcc/)**
+- **[Codecademy - Learn Python 2](https://www.codecademy.com/learn/learn-python)**
+- **[An Introduction to Python for Non-Programmers](https://thenewstack.io/an-introduction-to-python-for-non-programmers/)**
+- **[Getting Started with Python and InfluxDB](https://thenewstack.io/getting-started-with-python-and-influxdb/)**
+- **[Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8&ab_channel=ProgrammingwithMosh)**
