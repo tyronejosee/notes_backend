@@ -95,23 +95,34 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 ## 🗂️ Bases de Datos
 
 - [Bases de Datos](pendient/)
-- [Modelado](pendient/)
+- [Tipos](pendient/)
+- [Usos Reales](pendient/)
+- [Modelado de Datos](pendient/)
 - [Llaves: Primarias, Foraneas, Unicas](pendient/)
 - [Entidades](pendient/)
 - [Atributos](pendient/)
-- [Logica de Negocio](pendient/)
 - [Relaciones](pendient/)
+- [Logica de Negocio o Reglas de Negocio](pendient/)
 - [CRUD](pendient/)
 - [Sistemas Gestores de Bases de Datos](pendient/)
 - [SQL](pendient/)
+- [ORMs](pendient/)
+- [ACID](pendient/)
+- [Transactions](pendient/)
+- [N+1 Problem](pendient/)
+- [Normalization](pendient/)
+- [Failure Modes](pendient/)
+- [Profiling Perfor.](pendient/)
 
-**Relacionales:**
+### Bases de Datos: Relacionales
 
 - [PostgreSQL](pendient/)
 - [MySQL](pendient/)
 - [MariaDB](pendient/)
 - [Microsoft SQL Server](pendient/)
 - [Oracle](pendient/)
+
+### Bases de Datos: NoSQL
 
 **Documentos:**
 
@@ -141,16 +152,6 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 **Grafos:**
 
 - [Neo4j](pendient/)
-
-**Más Acerca de Bases de Datos:**
-
-- [ORMs](pendient/)
-- [ACID](pendient/)
-- [Transactions](pendient/)
-- [N+1 Problem](pendient/)
-- [Normalization](pendient/)
-- [Failure Modes](pendient/)
-- [Profiling Perfor.](pendient/)
 
 **Escalando Bases de Datos:**
 
@@ -264,7 +265,6 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [ChatGPT](http://chat.openai.com/)
 - [Notion](https://www.notion.so/)
 - [Figma](https://www.figma.com/)
-
-## Notas del Autor
-
-Este repositorio fue creado como una recopilación de recursos que han sido de gran utilidad en mi ruta educacional y profesional. Esta colección está basada en documentación confiable de multiples fuentes que he encontrado a lo largo del tiempo, mucha de ella en inglés u otros idiomas. Estaré agregando contenido nuevo según vaya encontrando. Espero encuentres valor y uso práctico a esta información y que te inspire a crear tus propios proyectos.
+https://platzi.com/
+https://www.coursera.org/
+https://es.wikipedia.org/
