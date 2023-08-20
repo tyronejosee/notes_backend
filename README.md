@@ -23,11 +23,14 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🏠 Introducción
 
+- [Desarrollo Web](pendient/)
+- [Diseño Web](pendient/)
 - [Backend y Frontend](pendient/)
 - [Backend Developer](pendient/)
 
-## 🌎 Fundamentos de Internet y la Web
+## 🌎 Fundamentos de Internet
 
+- [Internet](pendient/)
 - [HTTP](pendient/)
 - [Navegadores](pendient/)
 - [DNS](pendient/)
@@ -69,8 +72,8 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 **Control de Versiones:**
 
 - [Git](pendient/)
-- [GitFlow](pendient/)
-- [GitHub Flow](pendient/)
+  - [GitFlow](pendient/)
+  - [GitHub Flow](pendient/)
 
 **Servicios de Repositorios:**
 
@@ -162,6 +165,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🔗 APIs
 
+- [API](pendient/)
 - [REST](pendient/)
 - [JSON APIs](pendient/)
 - [SOAP](pendient/)
@@ -180,6 +184,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 💽 Caché
 
+- [Caché](pendient/)
 - [Lado del Cliente](pendient/)
 - [Lado del Servidor](pendient/)
   - [Redis](pendient/)
@@ -193,6 +198,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🧪 Pruebas o Testing
 
+- [Pruebas](pendient/)
 - [Pruebas Unitarias](pendient/)
 - [Pruebas de Integración](pendient/)
 - [Pruebas Funcionales](pendient/)
