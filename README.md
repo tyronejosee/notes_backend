@@ -37,6 +37,11 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Dominios](pendient/)
 - [Hosting](pendient/)
 
+## Metodologías
+
+- [KanBan](pendient/)
+- [Scrum](pendient/)
+
 ## 📜 Lenguajes de Programación
 
 - [Lenguajes de Programación](pendient/)
@@ -205,7 +210,11 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## ♾️ CI/CD
 
+- [DevOps](pendient/)
 - [Integración Continua/Implementación Continua](pendient/)
+- [Jenkins](pendient/)
+- [GitHub Actions](pendient/)
+- [Team City](pendient/)
 
 ## 📐 Principios de Diseño y Desarrollo
 
@@ -253,24 +262,8 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🥽 Contruyendo para Escalar
 
-## 🔡 Terminología
-
-- [Glosarío](pendient/)
-
 ## 📌 Recursos Adicionales
 
 - [Páginas](pendient/)
 - [Creadores](pendient/)
 - [Recursos](pendient/)
-
-## Enlaces de Interés
-
-- [Roadmap](https://roadmap.sh/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [ChatGPT](http://chat.openai.com/)
-- [Notion](https://www.notion.so/)
-- [Figma](https://www.figma.com/)
-https://platzi.com/
-https://www.coursera.org/
-https://es.wikipedia.org/
