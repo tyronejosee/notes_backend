@@ -244,6 +244,14 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 - [WebSockets](pendient/)
 
+## Plataformas de Alojamiento Web
+
+- [Render](pendient/)
+- [DigitalOcean](pendient/)
+- [AWS Amplify](pendient/)
+- [Heroku](pendient/)
+- [Netlify](pendient/)
+
 ## ☁️ Servidores Web
 
 - [Nginx](pendient/)
