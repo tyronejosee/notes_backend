@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Docs: Backend Developer <br>
+  Backend Developer: Python <br>
   Conceptos claves que debes considerar.
 <p>
 
@@ -28,66 +28,56 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Backend y Frontend](pendient/)
 - [Backend Developer](pendient/)
 
-## 🌎 Fundamentos de Internet
+## 🌎 Fundamentos de Web
 
 - [Internet](pendient/)
+- [WEB](pendient/)
 - [HTTP](pendient/)
 - [Navegadores](pendient/)
 - [DNS](pendient/)
 - [Dominios](pendient/)
 - [Hosting](pendient/)
 
-## Metodologías
+## Frontend (Opcional)
 
-- [KanBan](pendient/)
-- [Scrum](pendient/)
+- [HTML](pendient/)
+- [CSS](pendient/)
+- [SASS](pendient/)
+- [Bootstrap](pendient/)
+- [TailwindCSS](pendient/)
+- [NPM](pendient/)
+- [Webpack](pendient/)
+- [SPA](pendient/)
+- [PWA](pendient/)
+- [JavaScript](pendient/)
+- [TypeScript](pendient/)
 
 ## 📜 Lenguajes de Programación
 
 - [Lenguajes de Programación](pendient/)
-- [Java](pendient/)
-  - [Spring](pendient/)
-  - [Spring Boot](pendient/)
-  - [Play Framework](pendient/)
-  - [Spark](pendient/)
-- [PHP](pendient/)
 - [Python](pendient/)
-  - [Django](pendient/)
-  - [Flask](pendient/)
-  - [FastAPI](pendient/)
-- [C#](pendient/)
-  - [ASP.NET](pendient/)
-- [JavaScript](pendient/)
-  - [NodeJS](pendient/)
-- [GO](pendient/)
-  - [Gorilla](pendient/)
-  - [Buffalo](pendient/)
-  - [gofiber](pendient/)
-- [Rust](pendient/)
-  - [Actix Web](pendient/)
-  - [Rocket](pendient/)
-  - [Axum](pendient/)
-- [Ruby](pendient/)
-  - [Ruby on Rails](pendient/)
-  - [Sinatra](pendient/)
-  - [Grape](pendient/)
+
+## Frameworks
+
+- [Django](pendient/)
+- [Flask](pendient/)
+- [FastAPI](pendient/)
 
 ## 🗃️ Sistemas de Control de Versiones
 
-**Control de Versiones:**
+**Control de Versiones**:
 
 - [Git](pendient/)
   - [GitFlow](pendient/)
   - [GitHub Flow](pendient/)
 
-**Servicios de Repositorios:**
+**Servicios de Repositorios**:
 
 - [GitHub](pendient/)
-- [GitLab](pendient/)
-- [Bitbucket](pendient/)
 
 ## 🖥️ Sistemas Operativos y Conocimiento General
 
+- [Linux](pendient/)
 - [Terminal](pendient/)
 - [POSIX](pendient/)
 - [Comandos](pendient/)
@@ -125,37 +115,28 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 ### Bases de Datos: Relacionales
 
 - [PostgreSQL](pendient/)
-- [MySQL](pendient/)
-- [MariaDB](pendient/)
-- [Microsoft SQL Server](pendient/)
-- [Oracle](pendient/)
 
 ### Bases de Datos: NoSQL
 
 **Documentos:**
 
 - [MongoDB](pendient/)
-- [CouchDB](pendient/)
 
 **Series Temporales:**
 
 - [InfluxDB](pendient/)
-- [TimeScale](pendient/)
 
 **Tiempo Real:**
 
 - [Firebase](pendient/)
-- [RethinkDB](pendient/)
 
 **Columna Ancha:**
 
 - [Cassandra](pendient/)
-- [HBase](pendient/)
 
 **Clave-Valor:**
 
 - [Redis](pendient/)
-- [DynamoDB](pendient/)
 
 **Grafos:**
 
@@ -186,6 +167,11 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
   - [JWT](pendient/)
   - [OpenID](pendient/)
   - [SAML](pendient/)
+
+**Herramientas**:
+
+- [Postman](pendient/)
+- [Swagger](pendient/)
 
 ## 💽 Caché
 
@@ -223,6 +209,11 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Desarrollo Guíado por Pruebas](pendient/)
 - [CQRS (Command Query Responsability Segregation)](pendient/)
 - [Event Sourcing](pendient/)
+
+## Micelaneos
+
+- [KanBan](pendient/)
+- [Scrum](pendient/)
 
 ## 🏛️ Patrones de Arquitectura
 

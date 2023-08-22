@@ -5,7 +5,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [ChatGPT](http://chat.openai.com/)
 - [Notion](https://www.notion.so/)
-- [Figma](https://www.figma.com/)
-https://platzi.com/
-https://www.coursera.org/
-https://es.wikipedia.org/
+- [Repositorio: Django Roadmap](https://github.com/HHHMHA/django-roadmap)
+- [Platzi](https://platzi.com/)
+- [Coursera](https://www.coursera.org/)
+  
