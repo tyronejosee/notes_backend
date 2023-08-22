@@ -73,7 +73,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 **Servicios de Repositorios**:
 
-- [GitHub](pendient/)
+- [GitHub](docs/spa/control_versiones/github.md)
 
 ## 🖥️ Sistemas Operativos y Conocimiento General
 
