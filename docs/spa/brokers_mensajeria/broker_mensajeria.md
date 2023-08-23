@@ -1,4 +1,4 @@
-# Bróker de Mensajería
+# Patrón Bróker de Mensajería
 
 ## Introducción
 

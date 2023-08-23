@@ -229,11 +229,12 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Elacticsearch](pendient/)
 - [SoIr](pendient/)
 
-## ✉️ Brókers de Mensajería
+## ✉️ Bróker de Mensajería
 
-- [Broker de Mensajería](pendient/)
-- [RabbitMQ](pendient/)
-- [Apache Kafka](pendient/)
+- [Patrón Broker de Mensajería](docs/spa/brokers_mensajeria/broker_mensajeria.md)
+- [Patrón Publicador-Suscriptor](docs/spa/brokers_mensajeria/publicador_suscriptor.md)
+- [RabbitMQ](docs/spa/brokers_mensajeria/rabbitmq.md)
+- [Apache Kafka](docs/spa/brokers_mensajeria/apache_kafka.md)
 
 ## 📦 Contenedores
 
