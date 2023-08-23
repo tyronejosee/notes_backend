@@ -1,21 +1,27 @@
 # Bróker de Mensajería
 
-Un **bróker de mensajería** o **message broker** es un programa intermediario que traduce los mensajes de un sistema desde un lenguaje a otro, a través de un medio de telecomunicaciones.
+## Introducción
 
-## Patrón
+El patrón Broker de Mensajería es una estrategia arquitectónica que aborda los desafíos de la comunicación entre componentes o sistemas en un entorno distribuido. En este patrón, se introduce un intermediario o "broker" que actúa como un facilitador de la comunicación, permitiendo que los componentes se comuniquen de manera eficiente y desacoplada. Este patrón es particularmente útil cuando las aplicaciones necesitan intercambiar información de manera confiable y escalable sin crear conexiones directas entre ellas.
 
-Un bróker de mensajería es un patrón arquitectónico para la validación, la transformación y el ruteo de mensajes. Es un mecanismo mediador de la comunicación entre aplicaciones, permitiendo minimizar el grado de conocimiento mutuo que estas aplicaciones necesitan tener, para poder intercambiar mensajes, implementando así efectivamente su desacoplamiento.
+## Problema
 
-El propósito del bróker es recibir los mensajes entrantes desde las aplicaciones y llevar a cabo determinadas acciones con ellas. He aquí algunos ejemplos de posibles acciones a emprender por parte del bróker:
+En un entorno distribuido, múltiples componentes o sistemas a menudo necesitan compartir datos, mensajes o eventos. Conectar directamente cada par de componentes puede llevar a una arquitectura compleja y difícil de gestionar. Además, la adición o eliminación de componentes puede requerir cambios extensos en las conexiones existentes, lo que resulta en un sistema frágil y difícil de mantener.
 
-- Rutear mensajes a una o más destinaciones distintas
-- Transformar mensajes a una representación alternativa
-- Realizar una agregación de mensajes, descomponer mensajes en varios mensajes componentes, reenviándolos a sus respectivos destinos, para posteriormente recomponer las respuestas en un único mensaje que será remitido al usuario
-- Interactuar con un depósito externo para aumentar un mensaje o almacenarlo
-- Invocar un servicio Web para consultar datos
-- Responder a eventos o errores
-- Proveer un ruteo de los mensajes basado en su contenido o en sus tópicos empleando el modelo de publica/suscribe
+## Solución
 
-## Funcionalidad
+El patrón Broker de Mensajería introduce un intermediario, el "broker", que actúa como un punto centralizado para la comunicación. Los componentes pueden enviar mensajes al broker sin conocer a quién o qué sistema estará interesado en recibirlos. El broker se encarga de enrutar los mensajes a los destinatarios apropiados.
 
-Existen numerosos patrones de mensajería que pueden operar sin un bróker de mensajería. Un patrón que sí requiere la intervención de un bróker de mensajería es el de las colas de trabajos, es decir, colas de mensajería manejadas por múltiples receptores. Se requiere que tales colas tengan un mecanismo único y central de administración, transacción y generalmente también almacenamiento confiable.
+Este enfoque permite un alto nivel de desacoplamiento entre los componentes. Cada componente solo necesita conocer al broker y los canales de comunicación relevantes, sin preocuparse por la ubicación o el estado de los otros componentes.
+
+## Cuándo Usar el Patrón
+
+- Cuando tienes una arquitectura distribuida con múltiples componentes que necesitan comunicarse.
+- Cuando deseas desacoplar los componentes para facilitar la adición, eliminación o modificación de componentes sin afectar a otros.
+- Cuando necesitas una forma eficiente y escalable de transmitir datos, mensajes o eventos entre componentes.
+
+## Cuándo No Usar el Patrón
+
+- En sistemas simples con pocos componentes, donde la comunicación directa no introduce complicaciones excesivas.
+- Cuando la latencia ultrabaja y la comunicación directa son esenciales, ya que el broker puede introducir cierto retraso debido a la intermediación.
+- Cuando la complejidad adicional del broker no aporta beneficios sustanciales en escenarios simples y acoplados.
