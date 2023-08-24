@@ -1,0 +1,11 @@
+>> Patrones
+
+dame una introduccion al patron broker de mensajer, el contexto y el problema, la solucion, cuando usar el patron y cuando no
+
+>> Plataformas
+
+crea una sección con una intruducción apache kafka, crea una segunda sección con su historia, crea una tercera seccion con los usos practicos en la vida real, y una cuarta con las carácteristicas principales
+
+>> Metadatos
+
+dame en un listado clave valor, desarrollador(es),  lanzamiento, tipo, licencia, escrito en, pagina oficial, pagina de la documentacion, repositorio si existiece
