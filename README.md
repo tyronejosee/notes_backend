@@ -114,33 +114,16 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ### Bases de Datos: Relacionales
 
-- [PostgreSQL](pendient/)
+- [PostgreSQL](docs/spa/bases_datos/postgresql.md)
 
 ### Bases de Datos: NoSQL
 
-**Documentos:**
-
 - [MongoDB](pendient/)
-
-**Series Temporales:**
-
 - [InfluxDB](pendient/)
-
-**Tiempo Real:**
-
 - [Firebase](pendient/)
-
-**Columna Ancha:**
-
-- [Cassandra](pendient/)
-
-**Clave-Valor:**
-
-- [Redis](pendient/)
-
-**Grafos:**
-
-- [Neo4j](pendient/)
+- [Cassandra](docs/spa/bases_datos/apache_cassandra.md)
+- [Redis](docs/spa/bases_datos/redis.md)
+- [Neo4j](docs/spa/bases_datos/neo4j.md)
 
 **Escalando Bases de Datos:**
 

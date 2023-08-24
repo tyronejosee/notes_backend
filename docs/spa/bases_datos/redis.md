@@ -2,7 +2,7 @@
 
 - **Desarrollador(es)**: Salvatore Sanfilippo
 - **Lanzamiento**: 2009
-- **Tipo**: Almacenamiento en memoria y base de datos en memoria
+- **Tipo**: Base de Datos de Clave-Valor
 - **Licencia**: Licencia BSD
 - **Escrito en**: C
 - **Página**: [https://redis.io/](https://redis.io/)
