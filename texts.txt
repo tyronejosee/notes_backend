@@ -4,7 +4,7 @@ dame una introduccion al patron broker de mensajer, el contexto y el problema, l
 
 >> Plataformas
 
-crea una sección con una intruducción apache kafka, crea una segunda sección con su historia, crea una tercera seccion con los usos practicos en la vida real, y una cuarta con las carácteristicas principales
+Crea una sección con una introducción sobre postgresql, crea una segunda sección con su historia, crea una tercera sección con los usos prácticos en la vida real, y una cuarta con las características principales.
 
 >> Metadatos
 

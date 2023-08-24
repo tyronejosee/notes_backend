@@ -1,8 +1,8 @@
 # PostgreSQL
 
-- **Desarrollador(es)**: Rabbit Technologies Ltd.
-- **Lanzamiento**: Septiembre 3, 2007
-- **Tipo**: Broker de Mensajería, Middleware de Mensajería
+- **Desarrollador(es)**: PostgreSQL Global Development Group
+- **Lanzamiento**: 1989
+- **Tipo**: Sistema de gestión de bases de datos relacional
 - **Licencia**: PostgreSQL License (Licencia PostgreSQL)
 - **Escrito en**: C
 - **Página**: [https://www.postgresql.org/](https://www.postgresql.org/)
