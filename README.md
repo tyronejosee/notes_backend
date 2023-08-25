@@ -56,6 +56,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 - [Lenguajes de Programación](pendient/)
 - [Python](pendient/)
+- [Otros](pendient/)
 
 ## Frameworks
 
@@ -93,28 +94,24 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 ## 🗂️ Bases de Datos
 
 - [Bases de Datos](pendient/)
-- [Tipos](pendient/)
-- [Usos Reales](pendient/)
-- [Modelado de Datos](pendient/)
+- [Tipos y Usos](pendient/)
+- [Modelado de Datos y Entidades](pendient/)
 - [Llaves: Primarias, Foraneas, Unicas](pendient/)
-- [Entidades](pendient/)
-- [Atributos](pendient/)
-- [Relaciones](pendient/)
-- [Logica de Negocio o Reglas de Negocio](pendient/)
-- [CRUD](pendient/)
+- Relaciones y Reglas de Negocio
+- [Operaciones CRUD](pendient/)
 - [Sistemas Gestores de Bases de Datos](pendient/)
 - [SQL](pendient/)
 - [ORMs](pendient/)
-- [ACID](pendient/)
-- [Transactions](pendient/)
-- [N+1 Problem](pendient/)
-- [Normalization](pendient/)
-- [Failure Modes](pendient/)
-- [Profiling Perfor.](pendient/)
+- [ACID y Transactions](pendient/)
+- [Problema N+1 en Consultas](pendient/)
+- [Normalización y Redundancia](pendient/)
+- [Fallas y Estrategias de Recuperación](pendient/)
+- [Optimización y Profiling](pendient/)
 
 ### Bases de Datos: Relacionales
 
 - [PostgreSQL](docs/spa/bases_datos/postgresql.md)
+- [MySQL](docs/spa/bases_datos/postgresql.md)
 
 ### Bases de Datos: NoSQL
 
@@ -161,9 +158,12 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Caché](pendient/)
 - [Lado del Cliente](pendient/)
 - [Lado del Servidor](pendient/)
-  - [Redis](pendient/)
-  - [Memcached](pendient/)
 - [CDN](pendient/)
+
+**Tecnologías**:
+
+- [Redis](pendient/)
+- [Memcached](pendient/)
 
 ## 🔒 Seguridad Web
 
@@ -192,11 +192,6 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Desarrollo Guíado por Pruebas](pendient/)
 - [CQRS (Command Query Responsability Segregation)](pendient/)
 - [Event Sourcing](pendient/)
-
-## Micelaneos
-
-- [KanBan](pendient/)
-- [Scrum](pendient/)
 
 ## 🏛️ Patrones de Arquitectura
 
@@ -239,12 +234,25 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## ☁️ Servidores Web
 
+**Conceptos Generales**:
+
+- [Servidores Web](pendient/)
+
+**Tecnologías**:
+
 - [Nginx](pendient/)
 - [Apache](pendient/)
 - [Caddy](pendient/)
 - [Microsoft IIS](pendient/)
 
 ## 🥽 Contruyendo para Escalar
+
+## 🔍 Micelaneos
+
+**Metodologías Agíles**:
+
+- [KanBan](pendient/)
+- [Scrum](pendient/)
 
 ## 📌 Recursos Adicionales
 
