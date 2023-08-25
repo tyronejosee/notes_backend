@@ -38,7 +38,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Dominios](pendient/)
 - [Hosting](pendient/)
 
-## Frontend (Opcional)
+## 🎨 Frontend
 
 - [HTML](pendient/)
 - [CSS](pendient/)
@@ -58,13 +58,13 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Python](pendient/)
 - [Otros](pendient/)
 
-## Frameworks
+## 💼 Frameworks
 
 - [Django](pendient/)
 - [Flask](pendient/)
 - [FastAPI](pendient/)
 
-## 🗃️ Sistemas de Control de Versiones
+## 🗃️ Control de Versiones
 
 **Control de Versiones**:
 
@@ -76,7 +76,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 - [GitHub](docs/spa/control_versiones/github.md)
 
-## 🖥️ Sistemas Operativos y Conocimiento General
+## 🖥️ Sistemas Operativos
 
 - [Linux](pendient/)
 - [Terminal](pendient/)
@@ -108,12 +108,12 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Fallas y Estrategias de Recuperación](pendient/)
 - [Optimización y Profiling](pendient/)
 
-### Bases de Datos: Relacionales
+**Bases de Datos: Relacionales**:
 
 - [PostgreSQL](docs/spa/bases_datos/postgresql.md)
 - [MySQL](docs/spa/bases_datos/postgresql.md)
 
-### Bases de Datos: NoSQL
+**Bases de Datos: NoSQL**:
 
 - [MongoDB](pendient/)
 - [InfluxDB](pendient/)
@@ -131,7 +131,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🔗 APIs
 
-- [API](pendient/)
+- [API](docs/spa/apis/api.md)
 - [REST](pendient/)
 - [JSON APIs](pendient/)
 - [SOAP](pendient/)
@@ -162,7 +162,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 **Tecnologías**:
 
-- [Redis](pendient/)
+- [Redis](docs/spa/bases_datos/redis.md)
 - [Memcached](pendient/)
 
 ## 🔒 Seguridad Web
@@ -170,7 +170,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Algoritmos de Hashing](pendient/)
 - [Mejores Prácticas de Seguridad para las APIs](pendient/)
 
-## 🧪 Pruebas o Testing
+## ✅ Pruebas o Testing
 
 - [Pruebas](pendient/)
 - [Pruebas Unitarias](pendient/)
@@ -247,7 +247,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🥽 Contruyendo para Escalar
 
-## 🔍 Micelaneos
+## 🧩 Micelaneos
 
 **Metodologías Agíles**:
 
