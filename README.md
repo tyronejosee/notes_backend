@@ -175,6 +175,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 - [CSRF](docs/spa/vulnerabilidades/csrf.md)
 - [XSS](docs/spa//vulnerabilidades/xss.md)
+- [Inyección SQL](docs/spa/vulnerabilidades/inyeccion_sql.md)
 
 ## ✅ Pruebas o Testing
 
