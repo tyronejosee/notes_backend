@@ -17,7 +17,7 @@
     <a href="https://github.com/tyronejosee/docs_backend/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-## ¿Qué es un Desarrollador Backend o Backend Developer?
+## ¿Qué es un Backend Developer?
 
 Un Desarrollador Backend o Backend Developer es un especialista en programación y desarrollo de software que se dedica a construir y administrar la infraestructura y la lógica interna de una aplicación o sitio web. Su enfoque radica en la implementación de la lógica empresarial, el procesamiento y almacenamiento de datos, la comunicación con bases de datos y servicios externos, así como en garantizar la seguridad y el rendimiento de la aplicación. Este profesional trabaja en los componentes "detrás de escena" que permiten que la aplicación funcione de manera eficiente y efectiva, independientemente de la interfaz visible para los usuarios finales. Los desarrolladores backend colaboran estrechamente con los desarrolladores frontend, que se encargan de la parte visual y la experiencia del usuario, para lograr una integración fluida entre la interfaz y las operaciones internas, creando así aplicaciones completas y funcionales.
 
@@ -26,6 +26,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Desarrollo Web](pendient/)
 - [Diseño Web](pendient/)
 - [Backend y Frontend](pendient/)
+- [Backend Developer](pendient/)
 - [Backend Developer](pendient/)
 
 ## 🌎 Fundamentos de Web
@@ -115,9 +116,9 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 **Bases de Datos: NoSQL**:
 
-- [MongoDB](pendient/)
-- [InfluxDB](pendient/)
-- [Firebase](pendient/)
+- [MongoDB](docs/spa/bases_datos/mongodb.md)
+- [InfluxDB](docs/spa/bases_datos/influxdb.md)
+- [Firebase](docs/spa/bases_datos/firebase.md)
 - [Cassandra](docs/spa/bases_datos/apache_cassandra.md)
 - [Redis](docs/spa/bases_datos/redis.md)
 - [Neo4j](docs/spa/bases_datos/neo4j.md)
@@ -169,6 +170,11 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 - [Algoritmos de Hashing](pendient/)
 - [Mejores Prácticas de Seguridad para las APIs](pendient/)
+
+## Vulnerabilidades
+
+- [CSRF](docs/spa/vulnerabilidades/csrf.md)
+- [XSS](docs/spa//vulnerabilidades/xss.md)
 
 ## ✅ Pruebas o Testing
 
