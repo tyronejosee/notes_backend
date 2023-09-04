@@ -65,6 +65,13 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Flask](pendient/)
 - [FastAPI](pendient/)
 
+## 💼 Programación Asíncrona
+
+- [async/await](pendient/)
+- [asyncio](pendient/)
+- [Concurrency](pendient/)
+- [Parallelism](pendient/)
+
 ## 🗃️ Control de Versiones
 
 **Control de Versiones**:
@@ -171,7 +178,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Algoritmos de Hashing](pendient/)
 - [Mejores Prácticas de Seguridad para las APIs](pendient/)
 
-## Vulnerabilidades
+## 🕷️ Vulnerabilidades
 
 - [CSRF](docs/spa/vulnerabilidades/csrf.md)
 - [XSS](docs/spa//vulnerabilidades/xss.md)
@@ -188,6 +195,8 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 - [DevOps](pendient/)
 - [Integración Continua/Implementación Continua](pendient/)
+- [Buenas Prácticas](pendient/)
+- [Pipelines](pendient/)
 - [Jenkins](pendient/)
 - [GitHub Actions](pendient/)
 - [Team City](pendient/)
