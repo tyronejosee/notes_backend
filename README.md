@@ -27,7 +27,6 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Diseño Web](pendient/)
 - [Backend y Frontend](pendient/)
 - [Backend Developer](pendient/)
-- [Backend Developer](pendient/)
 
 ## 🌎 Fundamentos de Web
 
@@ -43,6 +42,11 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 - [HTML](pendient/)
 - [CSS](pendient/)
+- [JavaScript](pendient/)
+
+**Opcionales**:
+
+- [TypeScript](pendient/)
 - [SASS](pendient/)
 - [Bootstrap](pendient/)
 - [TailwindCSS](pendient/)
@@ -50,8 +54,6 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Webpack](pendient/)
 - [SPA](pendient/)
 - [PWA](pendient/)
-- [JavaScript](pendient/)
-- [TypeScript](pendient/)
 
 ## 📜 Lenguajes de Programación
 
@@ -263,12 +265,10 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🥽 Contruyendo para Escalar
 
-## 🧩 Micelaneos
+# Metodologías Agíles
 
-**Metodologías Agíles**:
-
-- [KanBan](pendient/)
-- [Scrum](pendient/)
+- [Scrum](docs/spa/metologias_agiles/scrum.md)
+- [KanBan](docs/spa/metologias_agiles/kanban.md)
 
 ## 📌 Recursos Adicionales
 
