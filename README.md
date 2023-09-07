@@ -265,10 +265,11 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🥽 Contruyendo para Escalar
 
-# Metodologías Agíles
+# Metodologías
 
-- [Scrum](docs/spa/metologias_agiles/scrum.md)
-- [KanBan](docs/spa/metologias_agiles/kanban.md)
+- [Scrum](docs/spa/metologias/scrum.md)
+- [KanBan](docs/spa/metologias/kanban.md)
+- [Cinco W](docs/spa/metologias/cinco_w.md)
 
 ## 📌 Recursos Adicionales
 
