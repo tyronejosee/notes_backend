@@ -17,22 +17,26 @@
     <a href="https://github.com/tyronejosee/docs_backend/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-## ¿Qué es un Backend Developer?
-
-Un Desarrollador Backend o Backend Developer es un especialista en programación y desarrollo de software que se dedica a construir y administrar la infraestructura y la lógica interna de una aplicación o sitio web. Su enfoque radica en la implementación de la lógica empresarial, el procesamiento y almacenamiento de datos, la comunicación con bases de datos y servicios externos, así como en garantizar la seguridad y el rendimiento de la aplicación. Este profesional trabaja en los componentes "detrás de escena" que permiten que la aplicación funcione de manera eficiente y efectiva, independientemente de la interfaz visible para los usuarios finales. Los desarrolladores backend colaboran estrechamente con los desarrolladores frontend, que se encargan de la parte visual y la experiencia del usuario, para lograr una integración fluida entre la interfaz y las operaciones internas, creando así aplicaciones completas y funcionales.
-
 ## 🏠 Introducción
 
-- [Desarrollo Web](pendient/)
-- [Diseño Web](pendient/)
-- [Backend y Frontend](pendient/)
-- [Backend Developer](pendient/)
+- [Desarrollo Web](docs/spa/introduccion/desarrollo_web.md)
+- [Frontend & Backend](docs/spa/introduccion/frontend_backend.md)
+- [Backend Developer](docs/spa/introduccion/backend_developer.md)
 
-## 🌎 Fundamentos de Web
+## 🌐 Redes
+
+- [Modelo OSI](pendient/)
+- [IPs](pendient/)
+- [Ports](pendient/)
+- [HTTP/HTTPS](pendient/)
+- [FTP](pendient/)
+- [NATs](pendient/)
+- [SSH](pendient/)
+
+## 🌎 Web
 
 - [Internet](pendient/)
 - [WEB](pendient/)
-- [HTTP](pendient/)
 - [Navegadores](pendient/)
 - [DNS](pendient/)
 - [Dominios](pendient/)
@@ -40,32 +44,22 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🎨 Frontend
 
-- [HTML](pendient/)
-- [CSS](pendient/)
-- [JavaScript](pendient/)
-
-**Opcionales**:
-
-- [TypeScript](pendient/)
-- [SASS](pendient/)
-- [Bootstrap](pendient/)
-- [TailwindCSS](pendient/)
-- [NPM](pendient/)
-- [Webpack](pendient/)
-- [SPA](pendient/)
-- [PWA](pendient/)
+- [HTML](docs/spa/frontend/html.md)
+- [CSS](docs/spa/frontend/css.md)
+- [JavaScript](docs/spa/frontend/javascript.md)
+- [TypeScript](docs/spa/frontend/typescript.md)
+- [SASS](docs/spa/frontend/sass.md)
+- [Bootstrap](docs/spa/frontend/bootstrap.md)
+- [TailwindCSS](docs/spa/frontend/tailwindcss.md)
+- [NPM](docs/spa/frontend/npm.md)
+- [Webpack](docs/spa/frontend/webpack.md)
+- [SPA](docs/spa/frontend/spa.md)
+- [PWA](docs/spa/frontend/pwa.md)
 
 ## 📜 Lenguajes de Programación
 
-- [Lenguajes de Programación](pendient/)
-- [Python](pendient/)
-- [Otros](pendient/)
-
-## 💼 Frameworks
-
-- [Django](pendient/)
-- [Flask](pendient/)
-- [FastAPI](pendient/)
+- [Lenguajes de Programación](docs/spa/lenguajes_programacion/lenguajes_programación.md)
+- [Python](docs/spa/lenguajes_programacion/python.md)
 
 ## 💼 Programación Asíncrona
 
@@ -74,12 +68,18 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Concurrency](pendient/)
 - [Parallelism](pendient/)
 
+## 💼 Frameworks
+
+- [Django](docs/spa/frameworks/django.md)
+- [Flask](docs/spa/frameworks/flask.md)
+- [FastAPI](docs/spa/frameworks/fastapi.md)
+
 ## 🗃️ Control de Versiones
 
-- [Git](pendient/)
-  - [GitFlow](pendient/)
-  - [GitHub Flow](pendient/)
+- [Git](docs/spa/control_versiones/git.md)
 - [GitHub](docs/spa/control_versiones/github.md)
+- [GitFlow](docs/spa/control_versiones/gitflow.md)
+- [GitHub Flow](docs/spa/control_versiones/github_flow.md)
 
 ## 🖥️ Sistemas Operativos
 
@@ -137,60 +137,57 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 ## 🔗 APIs
 
 - [API](docs/spa/apis/api.md)
-- [REST](pendient/)
-- [JSON APIs](pendient/)
-- [SOAP](pendient/)
-- [gRPC](pendient/)
-- [GraphQL](pendient/)
-- [HATEOAS](pendient/)
-- [Especificaciones de APIs Abiertas](pendient/)
-- [Autenticación](pendient/)
-  - [Autenticación Basada en Cookies](pendient/)
-  - [Autenticación Básica](pendient/)
-  - [Autenticación Basada en Tokens](pendient/)
-  - [OAuth](pendient/)
-  - [JWT](pendient/)
-  - [OpenID](pendient/)
-  - [SAML](pendient/)
+- [REST](docs/spa/apis/rest.md)
+- [JSON APIs](docs/spa/apis/json_apis.md)
+- [SOAP](docs/spa/apis/soap.md)
+- [gRPC](docs/spa/apis/grpc.md)
+- [GraphQL](docs/spa/apis/graphql.md)
+- [HATEOAS](docs/spa/apis/hateoas.md)
+- [Especificaciones de APIs Abiertas](docs/spa/apis/open_api.md)
+- [Autenticación](docs/spa/apis/autenticacion.md)
+  - [Autenticación Basada en Cookies](docs/spa/apis/autenticacion_basado_cookie.md)
+  - [Autenticación Básica](docs/spa/apis/autenticacion_basica.md)
+  - [Autenticación Basada en Tokens](docs/spa/apis/autenticacion_basada_tokens.md)
+  - [OAuth](docs/spa/apis/oauth.md)
+  - [JWT](docs/spa/apis/jwt.md)
+  - [OpenID](docs/spa/apis/openid.md)
+  - [SAML](docs/spa/apis/saml.md)
 
 **Herramientas**:
 
-- [Postman](pendient/)
-- [Swagger](pendient/)
+- [Postman](docs/spa/apis/postman.md)
+- [Swagger](docs/spa/apis/swagger.md)
 
 ## 💽 Caché
 
-- [Caché](pendient/)
-- [Lado del Cliente](pendient/)
-- [Lado del Servidor](pendient/)
-- [CDN](pendient/)
-
-**Tecnologías**:
-
+- [Caching](docs/spa/cache/caching.md)
+- [Lado del Cliente](docs/spa/cache/lado_cliente.md)
+- [Lado del Servidor](docs/spa/cache/lado_servidor.md)
+- [CDN](docs/spa/cache/cdn.md)
 - [Redis](docs/spa/bases_datos/redis.md)
-- [Memcached](pendient/)
+- [Memcached](docs/spa/cache/memcached.md)
 
 ## 🔒 Seguridad Web
 
 - [Algoritmos de Hashing](pendient/)
 - [Mejores Prácticas de Seguridad para las APIs](pendient/)
+- [CORS](docs/spa/seguridad_web/cors.md)
 
 ## 🕷️ Vulnerabilidades
 
 - [XSS](docs/spa//vulnerabilidades/xss.md)
 - [CSRF](docs/spa/vulnerabilidades/csrf.md)
 - [Inyección SQL](docs/spa/vulnerabilidades/inyeccion_sql.md)
-- [CORS](docs/spa//vulnerabilidades/xss.md)
 
 ## ✅ Pruebas
 
-- [Pruebas](pendient/)
-- [Pruebas Unitarias](pendient/)
-- [Pruebas de Integración](pendient/)
-- [Pruebas Funcionales](pendient/)
-- [TDD](pendient/)
-- [BDD](pendient/)
-- [DDD](pendient/)
+- [Pruebas](docs/spa/pruebas/pruebas.md)
+- [Pruebas Unitarias](docs/spa/pruebas/pruebas_unitarias.md)
+- [Pruebas de Integración](docs/spa/pruebas/pruebas_integracion.md)
+- [Pruebas Funcionales](docs/spa/pruebas/pruebas_funcionales.md)
+- [TDD](docs/spa/pruebas/tdd.md)
+- [BDD](docs/spa/pruebas/bdd.md)
+- [DDD](docs/spa/pruebas/ddd.md)
 
 ## Seguimiento de Problemas
 
