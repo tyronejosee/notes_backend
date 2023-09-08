@@ -76,14 +76,9 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🗃️ Control de Versiones
 
-**Control de Versiones**:
-
 - [Git](pendient/)
   - [GitFlow](pendient/)
   - [GitHub Flow](pendient/)
-
-**Servicios de Repositorios**:
-
 - [GitHub](docs/spa/control_versiones/github.md)
 
 ## 🖥️ Sistemas Operativos
@@ -182,16 +177,26 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## 🕷️ Vulnerabilidades
 
-- [CSRF](docs/spa/vulnerabilidades/csrf.md)
 - [XSS](docs/spa//vulnerabilidades/xss.md)
+- [CSRF](docs/spa/vulnerabilidades/csrf.md)
 - [Inyección SQL](docs/spa/vulnerabilidades/inyeccion_sql.md)
+- [CORS](docs/spa//vulnerabilidades/xss.md)
 
-## ✅ Pruebas o Testing
+## ✅ Pruebas
 
 - [Pruebas](pendient/)
 - [Pruebas Unitarias](pendient/)
 - [Pruebas de Integración](pendient/)
 - [Pruebas Funcionales](pendient/)
+- [TDD](pendient/)
+- [BDD](pendient/)
+- [DDD](pendient/)
+
+## Seguimiento de Problemas
+
+- [GitHub Issues](pendient/)
+- [JIRA](pendient/)
+- [Redmine](pendient/)
 
 ## ♾️ CI/CD
 
@@ -199,9 +204,9 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 - [Integración Continua/Implementación Continua](pendient/)
 - [Buenas Prácticas](pendient/)
 - [Pipelines](pendient/)
-- [Jenkins](pendient/)
 - [GitHub Actions](pendient/)
-- [Team City](pendient/)
+- [Jenkins](pendient/)
+- [Travis-CI](pendient/)
 
 ## 📐 Principios de Diseño y Desarrollo
 
@@ -252,12 +257,7 @@ Un Desarrollador Backend o Backend Developer es un especialista en programación
 
 ## ☁️ Servidores Web
 
-**Conceptos Generales**:
-
 - [Servidores Web](pendient/)
-
-**Tecnologías**:
-
 - [Nginx](pendient/)
 - [Apache](pendient/)
 - [Caddy](pendient/)
