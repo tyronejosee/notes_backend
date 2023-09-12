@@ -25,8 +25,8 @@
 
 ## 🌐 Redes de Comunicación
 
-- [Modelo OSI](pendient/)
-- [Modelo TCP/IP](pendient/)
+- [Modelo OSI](docs/spa/redes_comunicacion/modelo_osi.md)
+- [Modelo TCP/IP](docs/spa/redes_comunicacion/modelo_tcp_ip.md)
 - [HTTP](pendient/)
 - [HTTPS](pendient/)
 - [SSH](pendient/)
