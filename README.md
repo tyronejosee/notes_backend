@@ -23,17 +23,16 @@
 - [Frontend & Backend](docs/spa/introduccion/frontend_backend.md)
 - [Backend Developer](docs/spa/introduccion/backend_developer.md)
 
-## 🌐 Redes
+## 🌐 Redes de Comunicación
 
 - [Modelo OSI](pendient/)
-- [IPs](pendient/)
-- [Ports](pendient/)
-- [HTTP/HTTPS](pendient/)
-- [FTP](pendient/)
-- [NATs](pendient/)
+- [Modelo TCP/IP](pendient/)
+- [HTTP](pendient/)
+- [HTTPS](pendient/)
 - [SSH](pendient/)
+- [FTP](pendient/)
 
-## 🌎 Web
+## 🌎 World Wide Web (WEB)
 
 - [Internet](pendient/)
 - [WEB](pendient/)
@@ -42,7 +41,7 @@
 - [Dominios](pendient/)
 - [Hosting](pendient/)
 
-## 🎨 Frontend
+## 🎨 Tecnologías Frontend
 
 - [HTML](docs/spa/frontend/html.md)
 - [CSS](docs/spa/frontend/css.md)
@@ -59,14 +58,12 @@
 ## 📜 Lenguajes de Programación
 
 - [Lenguajes de Programación](docs/spa/lenguajes_programacion/lenguajes_programación.md)
-- [Python](docs/spa/lenguajes_programacion/python.md)
-
-## 💼 Programación Asíncrona
-
+- Programación Asíncrona
 - [async/await](pendient/)
 - [asyncio](pendient/)
 - [Concurrency](pendient/)
 - [Parallelism](pendient/)
+- [Python](docs/spa/lenguajes_programacion/python.md)
 
 ## 💼 Frameworks
 
@@ -126,13 +123,6 @@
 - [Cassandra](docs/spa/bases_datos/apache_cassandra.md)
 - [Redis](docs/spa/bases_datos/redis.md)
 - [Neo4j](docs/spa/bases_datos/neo4j.md)
-
-**Escalando Bases de Datos:**
-
-- [](pendient/)
-- [](pendient/)
-- [](pendient/)
-- [](pendient/)
 
 ## 🔗 APIs
 
@@ -197,8 +187,8 @@
 
 ## ♾️ CI/CD
 
-- [DevOps](pendient/)
 - [Integración Continua/Implementación Continua](pendient/)
+- [DevOps](pendient/)
 - [Buenas Prácticas](pendient/)
 - [Pipelines](pendient/)
 - [GitHub Actions](pendient/)
@@ -260,10 +250,9 @@
 - [Caddy](pendient/)
 - [Microsoft IIS](pendient/)
 
-## 🥽 Contruyendo para Escalar
+## Gestión de Proyectos
 
-# Metodologías
-
+- [Metodologías Agíles](docs/spa/metologias/scrum.md)
 - [Scrum](docs/spa/metologias/scrum.md)
 - [KanBan](docs/spa/metologias/kanban.md)
 - [Cinco W](docs/spa/metologias/cinco_w.md)
