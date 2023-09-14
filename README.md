@@ -17,12 +17,6 @@
     <a href="https://github.com/tyronejosee/docs_backend/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-## 🏠 Introducción
-
-- [Desarrollo Web](docs/spa/introduccion/desarrollo_web.md)
-- [Frontend & Backend](docs/spa/introduccion/frontend_backend.md)
-- [Backend Developer](docs/spa/introduccion/backend_developer.md)
-
 ## 🌐 Redes de Comunicación
 
 - [Modelo OSI](docs/spa/redes_comunicacion/modelo_osi.md)
@@ -32,7 +26,7 @@
 - [SSH](pendient/)
 - [FTP](pendient/)
 
-## 🌎 World Wide Web (WEB)
+## 🌎 Conceptos Web
 
 - [Internet](pendient/)
 - [WEB](pendient/)
@@ -40,20 +34,6 @@
 - [DNS](pendient/)
 - [Dominios](pendient/)
 - [Hosting](pendient/)
-
-## 🎨 Tecnologías Frontend
-
-- [HTML](docs/spa/frontend/html.md)
-- [CSS](docs/spa/frontend/css.md)
-- [JavaScript](docs/spa/frontend/javascript.md)
-- [TypeScript](docs/spa/frontend/typescript.md)
-- [SASS](docs/spa/frontend/sass.md)
-- [Bootstrap](docs/spa/frontend/bootstrap.md)
-- [TailwindCSS](docs/spa/frontend/tailwindcss.md)
-- [NPM](docs/spa/frontend/npm.md)
-- [Webpack](docs/spa/frontend/webpack.md)
-- [SPA](docs/spa/frontend/spa.md)
-- [PWA](docs/spa/frontend/pwa.md)
 
 ## 📜 Lenguajes de Programación
 
@@ -175,9 +155,6 @@
 - [Pruebas Unitarias](docs/spa/pruebas/pruebas_unitarias.md)
 - [Pruebas de Integración](docs/spa/pruebas/pruebas_integracion.md)
 - [Pruebas Funcionales](docs/spa/pruebas/pruebas_funcionales.md)
-- [TDD](docs/spa/pruebas/tdd.md)
-- [BDD](docs/spa/pruebas/bdd.md)
-- [DDD](docs/spa/pruebas/ddd.md)
 
 ## Seguimiento de Problemas
 
@@ -256,6 +233,23 @@
 - [Scrum](docs/spa/metologias/scrum.md)
 - [KanBan](docs/spa/metologias/kanban.md)
 - [Cinco W](docs/spa/metologias/cinco_w.md)
+- [TDD](docs/spa/pruebas/tdd.md)
+- [BDD](docs/spa/pruebas/bdd.md)
+- [DDD](docs/spa/pruebas/ddd.md)
+
+## 🎨 Frontend (Opcional)
+
+- [HTML](docs/spa/frontend/html.md)
+- [CSS](docs/spa/frontend/css.md)
+- [JavaScript](docs/spa/frontend/javascript.md)
+- [TypeScript](docs/spa/frontend/typescript.md)
+- [SASS](docs/spa/frontend/sass.md)
+- [Bootstrap](docs/spa/frontend/bootstrap.md)
+- [TailwindCSS](docs/spa/frontend/tailwindcss.md)
+- [NPM](docs/spa/frontend/npm.md)
+- [Webpack](docs/spa/frontend/webpack.md)
+- [SPA](docs/spa/frontend/spa.md)
+- [PWA](docs/spa/frontend/pwa.md)
 
 ## 📌 Recursos Adicionales
 
