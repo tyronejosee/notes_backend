@@ -172,6 +172,13 @@
 - [Jenkins](pendient/)
 - [Travis-CI](pendient/)
 
+## Gestión de Proyectos
+
+- [Metodologías Agíles](docs/spa/metologias/scrum.md)
+- [Scrum](docs/spa/metologias/scrum.md)
+- [KanBan](docs/spa/metologias/kanban.md)
+- [Cinco W](docs/spa/metologias/cinco_w.md)
+
 ## 📐 Principios de Diseño y Desarrollo
 
 - [GOF Design Patterns](pendient/)
@@ -227,32 +234,22 @@
 - [Caddy](pendient/)
 - [Microsoft IIS](pendient/)
 
-## Gestión de Proyectos
-
-- [Metodologías Agíles](docs/spa/metologias/scrum.md)
-- [Scrum](docs/spa/metologias/scrum.md)
-- [KanBan](docs/spa/metologias/kanban.md)
-- [Cinco W](docs/spa/metologias/cinco_w.md)
-- [TDD](docs/spa/pruebas/tdd.md)
-- [BDD](docs/spa/pruebas/bdd.md)
-- [DDD](docs/spa/pruebas/ddd.md)
-
 ## 🎨 Frontend (Opcional)
 
 - [HTML](docs/spa/frontend/html.md)
 - [CSS](docs/spa/frontend/css.md)
 - [JavaScript](docs/spa/frontend/javascript.md)
+  - [NPM](docs/spa/frontend/npm.md)
 - [TypeScript](docs/spa/frontend/typescript.md)
 - [SASS](docs/spa/frontend/sass.md)
 - [Bootstrap](docs/spa/frontend/bootstrap.md)
 - [TailwindCSS](docs/spa/frontend/tailwindcss.md)
-- [NPM](docs/spa/frontend/npm.md)
 - [Webpack](docs/spa/frontend/webpack.md)
 - [SPA](docs/spa/frontend/spa.md)
 - [PWA](docs/spa/frontend/pwa.md)
 
 ## 📌 Recursos Adicionales
 
-- [Páginas](pendient/)
-- [Creadores](pendient/)
-- [Recursos](pendient/)
+- [Páginas](docs/spa/recursos_adicionales/paginas.md)
+- [Creadores](docs/spa/recursos_adicionales/creadores.md)
+- [Recursos](docs/spa/recursos_adicionales/recursos.md)
