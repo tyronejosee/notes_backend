@@ -17,16 +17,7 @@
     <a href="https://github.com/tyronejosee/docs_backend/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-## 🌐 Redes de Comunicación
-
-- [Modelo OSI](docs/spa/redes_comunicacion/modelo_osi.md)
-- [Modelo TCP/IP](docs/spa/redes_comunicacion/modelo_tcp_ip.md)
-- [HTTP](pendient/)
-- [HTTPS](pendient/)
-- [SSH](pendient/)
-- [FTP](pendient/)
-
-## 🌎 Conceptos Web
+## 🌎 Infraestructura de Internet
 
 - [Internet](pendient/)
 - [WEB](pendient/)
@@ -34,6 +25,18 @@
 - [DNS](pendient/)
 - [Dominios](pendient/)
 - [Hosting](pendient/)
+
+## 🌐 Redes de Comunicación
+
+- [Modelo OSI](docs/spa/redes_comunicacion/modelo_osi.md)
+- [Modelo TCP/IP](docs/spa/redes_comunicacion/modelo_tcp_ip.md)
+
+## Protocolos de Red
+
+- [HTTP](pendient/)
+- [SSH](pendient/)
+- [FTP](pendient/)
+- [WebSockets](pendient/)
 
 ## 📜 Lenguajes de Programación
 
@@ -54,9 +57,10 @@
 ## 🗃️ Control de Versiones
 
 - [Git](docs/spa/control_versiones/git.md)
+  - [GitFlow](docs/spa/control_versiones/gitflow.md)
+  - [GitHub Flow](docs/spa/control_versiones/github_flow.md)
 - [GitHub](docs/spa/control_versiones/github.md)
-- [GitFlow](docs/spa/control_versiones/gitflow.md)
-- [GitHub Flow](docs/spa/control_versiones/github_flow.md)
+
 
 ## 🖥️ Sistemas Operativos
 
@@ -89,14 +93,8 @@
 - [Normalización y Redundancia](pendient/)
 - [Fallas y Estrategias de Recuperación](pendient/)
 - [Optimización y Profiling](pendient/)
-
-**Bases de Datos: Relacionales**:
-
 - [PostgreSQL](docs/spa/bases_datos/postgresql.md)
 - [MySQL](docs/spa/bases_datos/postgresql.md)
-
-**Bases de Datos: NoSQL**:
-
 - [MongoDB](docs/spa/bases_datos/mongodb.md)
 - [InfluxDB](docs/spa/bases_datos/influxdb.md)
 - [Firebase](docs/spa/bases_datos/firebase.md)
@@ -122,9 +120,6 @@
   - [JWT](docs/spa/apis/jwt.md)
   - [OpenID](docs/spa/apis/openid.md)
   - [SAML](docs/spa/apis/saml.md)
-
-**Herramientas**:
-
 - [Postman](docs/spa/apis/postman.md)
 - [Swagger](docs/spa/apis/swagger.md)
 
@@ -142,12 +137,10 @@
 - [Algoritmos de Hashing](pendient/)
 - [Mejores Prácticas de Seguridad para las APIs](pendient/)
 - [CORS](docs/spa/seguridad_web/cors.md)
-
-## 🕷️ Vulnerabilidades
-
-- [XSS](docs/spa//vulnerabilidades/xss.md)
-- [CSRF](docs/spa/vulnerabilidades/csrf.md)
-- [Inyección SQL](docs/spa/vulnerabilidades/inyeccion_sql.md)
+- Vulnerabilidades
+  - [XSS](docs/spa//vulnerabilidades/xss.md)
+  - [CSRF](docs/spa/vulnerabilidades/csrf.md)
+  - [Inyección SQL](docs/spa/vulnerabilidades/inyeccion_sql.md)
 
 ## ✅ Pruebas
 
@@ -156,11 +149,12 @@
 - [Pruebas de Integración](docs/spa/pruebas/pruebas_integracion.md)
 - [Pruebas Funcionales](docs/spa/pruebas/pruebas_funcionales.md)
 
-## Seguimiento de Problemas
+## Gestión de Proyectos
 
-- [GitHub Issues](pendient/)
-- [JIRA](pendient/)
-- [Redmine](pendient/)
+- [Metodologías Agíles](docs/spa/metologias/scrum.md)
+- [Scrum](docs/spa/metologias/scrum.md)
+- [KanBan](docs/spa/metologias/kanban.md)
+- [Cinco W](docs/spa/metologias/cinco_w.md)
 
 ## ♾️ CI/CD
 
@@ -172,12 +166,11 @@
 - [Jenkins](pendient/)
 - [Travis-CI](pendient/)
 
-## Gestión de Proyectos
+## Seguimiento de Problemas
 
-- [Metodologías Agíles](docs/spa/metologias/scrum.md)
-- [Scrum](docs/spa/metologias/scrum.md)
-- [KanBan](docs/spa/metologias/kanban.md)
-- [Cinco W](docs/spa/metologias/cinco_w.md)
+- [GitHub Issues](pendient/)
+- [JIRA](pendient/)
+- [Redmine](pendient/)
 
 ## 📐 Principios de Diseño y Desarrollo
 
@@ -186,6 +179,8 @@
 - [Desarrollo Guíado por Pruebas](pendient/)
 - [CQRS (Command Query Responsability Segregation)](pendient/)
 - [Event Sourcing](pendient/)
+
+## Patrones de Diseño
 
 ## 🏛️ Patrones de Arquitectura
 
@@ -201,7 +196,7 @@
 - [Elacticsearch](pendient/)
 - [SoIr](pendient/)
 
-## ✉️ Bróker de Mensajería
+## ✉️ Brókers de Mensajería
 
 - [Patrón Broker de Mensajería](docs/spa/brokers_mensajeria/broker_mensajeria.md)
 - [Patrón Publicador-Suscriptor](docs/spa/brokers_mensajeria/publicador_suscriptor.md)
@@ -214,18 +209,6 @@
 - [Docker](pendient/)
 - [LXC](pendient/)
 
-## 🔌 WebSockets
-
-- [WebSockets](pendient/)
-
-## Plataformas de Alojamiento Web
-
-- [Render](pendient/)
-- [DigitalOcean](pendient/)
-- [AWS Amplify](pendient/)
-- [Heroku](pendient/)
-- [Netlify](pendient/)
-
 ## ☁️ Servidores Web
 
 - [Servidores Web](pendient/)
@@ -234,16 +217,24 @@
 - [Caddy](pendient/)
 - [Microsoft IIS](pendient/)
 
+## Hosting
+
+- [Render](pendient/)
+- [DigitalOcean](pendient/)
+- [AWS Amplify](pendient/)
+- [Heroku](pendient/)
+- [Netlify](pendient/)
+
 ## 🎨 Frontend (Opcional)
 
 - [HTML](docs/spa/frontend/html.md)
 - [CSS](docs/spa/frontend/css.md)
+  - [SASS](docs/spa/frontend/sass.md)
+  - [Bootstrap](docs/spa/frontend/bootstrap.md)
+  - [TailwindCSS](docs/spa/frontend/tailwindcss.md)
 - [JavaScript](docs/spa/frontend/javascript.md)
   - [NPM](docs/spa/frontend/npm.md)
 - [TypeScript](docs/spa/frontend/typescript.md)
-- [SASS](docs/spa/frontend/sass.md)
-- [Bootstrap](docs/spa/frontend/bootstrap.md)
-- [TailwindCSS](docs/spa/frontend/tailwindcss.md)
 - [Webpack](docs/spa/frontend/webpack.md)
 - [SPA](docs/spa/frontend/spa.md)
 - [PWA](docs/spa/frontend/pwa.md)
