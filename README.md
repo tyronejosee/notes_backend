@@ -175,11 +175,11 @@
 ## Diagramas UML
 
 - [UML](docs/spa/diagramas_uml/uml.md)
-- [Diagramas de Clases](pendient/)
-- [Diagramas de Casos de Uso](pendient/)
-- [Diagramas de Actividad](pendient/)
-- [Diagramas de Máquina de Estados](pendient/)
-- [Diagramas de Secuencia](pendient/)
+- [Diagrama de Clases](docs/spa/diagramas_uml/diagrama_clases.md)
+- [Diagrama de Casos de Uso](docs/spa/diagramas_uml/diagrama_casos_uso.md)
+- [Diagrama de Actividad](docs/spa/diagramas_uml/diagrama_actividad.md)
+- [Diagrama de Máquina de Estados](docs/spa/diagramas_uml/diagrama_maquina_estados.md)
+- [Diagrama de Secuencia](docs/spa/diagramas_uml/diagrama_secuencia.md)
 
 ## 📐 Principios de Diseño y Desarrollo
 
