@@ -172,6 +172,15 @@
 - [JIRA](pendient/)
 - [Redmine](pendient/)
 
+## Diagramas UML
+
+- [UML](docs/spa/diagramas_uml/uml.md)
+- [Diagramas de Clases](pendient/)
+- [Diagramas de Casos de Uso](pendient/)
+- [Diagramas de Actividad](pendient/)
+- [Diagramas de Máquina de Estados](pendient/)
+- [Diagramas de Secuencia](pendient/)
+
 ## 📐 Principios de Diseño y Desarrollo
 
 - [GOF Design Patterns](pendient/)
