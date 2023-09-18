@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  Backend Developer: Python <br>
+  Backend Developer: Python
+  <br>
   Conceptos claves que debes considerar.
 <p>
 
@@ -33,10 +34,14 @@
 
 ## Protocolos de Red
 
-- [HTTP](pendient/)
-- [SSH](pendient/)
-- [FTP](pendient/)
-- [WebSockets](pendient/)
+- [HTTP/S](docs/spa/protocolos_red/http_s.md)
+- [DNS](docs/spa/protocolos_red/dns.md)
+- [SMTP](docs/spa/protocolos_red/smtp.md)
+- [POP3/IMAP](docs/spa/protocolos_red/pop3_imap.md)
+- [MQTT](docs/spa/protocolos_red/mqtt.md)
+- [FTP](docs/spa/protocolos_red/ftp.md)
+- [SSH](docs/spa/protocolos_red/ssh.md)
+- [WebSockets](docs/spa/protocolos_red/websockets.md)
 
 ## 📜 Lenguajes de Programación
 
@@ -60,7 +65,6 @@
   - [GitFlow](docs/spa/control_versiones/gitflow.md)
   - [GitHub Flow](docs/spa/control_versiones/github_flow.md)
 - [GitHub](docs/spa/control_versiones/github.md)
-
 
 ## 🖥️ Sistemas Operativos
 
