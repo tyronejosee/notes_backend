@@ -141,10 +141,12 @@
 - [Algoritmos de Hashing](pendient/)
 - [Mejores Prácticas de Seguridad para las APIs](pendient/)
 - [CORS](docs/spa/seguridad_web/cors.md)
-- Vulnerabilidades
-  - [XSS](docs/spa//vulnerabilidades/xss.md)
-  - [CSRF](docs/spa/vulnerabilidades/csrf.md)
-  - [Inyección SQL](docs/spa/vulnerabilidades/inyeccion_sql.md)
+
+## Vulnerabilidades
+
+- [XSS](docs/spa//vulnerabilidades/xss.md)
+- [CSRF](docs/spa/vulnerabilidades/csrf.md)
+- [Inyección SQL](docs/spa/vulnerabilidades/inyeccion_sql.md)
 
 ## ✅ Pruebas
 
@@ -230,13 +232,17 @@
 - [Caddy](pendient/)
 - [Microsoft IIS](pendient/)
 
-## Hosting
+## Proveedores de Nube
 
-- [Render](pendient/)
-- [DigitalOcean](pendient/)
-- [AWS Amplify](pendient/)
+- [AWS](pendient/)
+- [Google Cloud](pendient/)
+- [Azure](pendient/)
+- [Digital Ocean](pendient/)
+- [Alibaba Cloud](pendient/)
+- [Linode](pendient/)
 - [Heroku](pendient/)
-- [Netlify](pendient/)
+- [Vultr](pendient/)
+- [Render](pendient/)
 
 ## 🎨 Frontend (Opcional)
 
