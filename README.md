@@ -23,7 +23,6 @@
 - [Internet](pendient/)
 - [WEB](pendient/)
 - [Navegadores](pendient/)
-- [DNS](pendient/)
 - [Dominios](pendient/)
 - [Hosting](pendient/)
 
@@ -51,6 +50,9 @@
 - [asyncio](pendient/)
 - [Concurrency](pendient/)
 - [Parallelism](pendient/)
+
+## Python
+
 - [Python](docs/spa/lenguajes_programacion/python.md)
 
 ## 💼 Frameworks
