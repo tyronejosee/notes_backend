@@ -63,9 +63,7 @@
 
 ## 🗃️ Control de Versiones
 
-- [Git](docs/spa/control_versiones/git.md)
-  - [GitFlow](docs/spa/control_versiones/gitflow.md)
-  - [GitHub Flow](docs/spa/control_versiones/github_flow.md)
+- [Git](docs/spa/control_versiones/git.md)W
 - [GitHub](docs/spa/control_versiones/github.md)
 
 ## 🖥️ Sistemas Operativos
