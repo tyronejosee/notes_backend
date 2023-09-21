@@ -8,6 +8,15 @@ Crea una sección con una introducción sobre postgresql, crea una segunda secci
 
 >> Metadatos
 
+- **Desarrollador(es)**: Apache Software Foundation
+- **Lanzamiento**: 2008
+- **Tipo**: Base de Datos Distribuida NoSQL
+- **Licencia**: Apache 2.0
+- **Escrito en**: Java
+- **Página**: [https://cassandra.apache.org/](https://cassandra.apache.org/)
+- **Documentación**: [https://cassandra.apache.org/doc/](https://cassandra.apache.org/doc/)
+- **Repositorio**: [https://github.com/apache/cassandra](https://github.com/apache/cassandra)
+
 Dame en un listado clave valor, desarrollador(es),  lanzamiento, tipo, licencia, escrito en, pagina oficial, pagina de la documentación, repositorio si existiese.
 
 ---
