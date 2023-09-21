@@ -1,7 +1,7 @@
 # Postman
 
-- **Desarrollador(es)**: Abhinav Asthana, Ankit Sobti, Abhijit Kane
-- **Lanzamiento**: 2014
+- **Desarrollador(es)**: Abhinav Asthana, Ankit Sobti, Abhijit Kane, Postman Inc.
+- **Lanzamiento**: 2012
 - **Tipo**: Plataforma de API para Desarrolladores
 - **Licencia**: Propietaria
 - **Página**: [https://www.postman.com/](https://www.postman.com/)
