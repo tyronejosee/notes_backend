@@ -1,4 +1,6 @@
-# Páginas
+# Recursos Adicionales
+
+## Páginas
 
 - [Roadmap](https://roadmap.sh/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
@@ -8,4 +10,7 @@
 - [Repositorio: Django Roadmap](https://github.com/HHHMHA/django-roadmap)
 - [Platzi](https://platzi.com/)
 - [Coursera](https://www.coursera.org/)
-  
+
+## Personalización
+
+- [Oh My Posh](https://ohmyposh.dev/)
