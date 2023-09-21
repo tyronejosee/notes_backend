@@ -42,7 +42,7 @@
 - [SSH](docs/spa/protocolos_red/ssh.md)
 - [WebSockets](docs/spa/protocolos_red/websockets.md)
 
-## 📜 Lenguajes de Programación
+## 📜 Conceptos de Programación
 
 - [Lenguajes de Programación](docs/spa/lenguajes_programacion/lenguajes_programación.md)
 - Programación Asíncrona
@@ -51,7 +51,7 @@
 - [Concurrency](pendient/)
 - [Parallelism](pendient/)
 
-## Python
+## Lenguajes de Programación
 
 - [Python](docs/spa/lenguajes_programacion/python.md)
 
@@ -160,14 +160,14 @@
 - [Metodologías Agíles](docs/spa/metologias/scrum.md)
 - [Scrum](docs/spa/metologias/scrum.md)
 - [KanBan](docs/spa/metologias/kanban.md)
+- [Jira](pending)
+- [Trello](pending)
+- [Notion](pending)
 - [Cinco W](docs/spa/metologias/cinco_w.md)
 
 ## ♾️ CI/CD
 
 - [Integración Continua/Implementación Continua](pendient/)
-- [DevOps](pendient/)
-- [Buenas Prácticas](pendient/)
-- [Pipelines](pendient/)
 - [GitHub Actions](pendient/)
 - [Jenkins](pendient/)
 - [Travis-CI](pendient/)
@@ -244,7 +244,7 @@
 - [Vultr](docs/spa/proveedores_nube/vultr.md)
 - [Render](docs/spa/proveedores_nube/render.md)
 
-## 🎨 Frontend (Opcional)
+## 🎨 Tecnologías Frontend (Opcional)
 
 - [HTML](docs/spa/frontend/html.md)
 - [CSS](docs/spa/frontend/css.md)
@@ -260,6 +260,4 @@
 
 ## 📌 Recursos Adicionales
 
-- [Páginas](docs/spa/recursos_adicionales/paginas.md)
-- [Creadores](docs/spa/recursos_adicionales/creadores.md)
-- [Recursos](docs/spa/recursos_adicionales/recursos.md)
+- [Recursos Adicionales](docs/spa/recursos_adicionales/recursos.md)
