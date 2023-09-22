@@ -84,11 +84,6 @@
 ## 🗂️ Bases de Datos
 
 - [Bases de Datos](pendient/)
-- [Tipos y Usos](pendient/)
-- [Modelado de Datos y Entidades](pendient/)
-- [Llaves: Primarias, Foraneas, Unicas](pendient/)
-- Relaciones y Reglas de Negocio
-- [Operaciones CRUD](pendient/)
 - [Sistemas Gestores de Bases de Datos](pendient/)
 - [SQL](pendient/)
 - [ORMs](pendient/)
@@ -163,13 +158,12 @@
 - [Jira](pending)
 - [Trello](pending)
 - [Notion](pending)
-- [Cinco W](docs/spa/metologias/cinco_w.md)
 
 ## ♾️ CI/CD
 
 - [Integración Continua/Implementación Continua](pendient/)
-- [GitHub Actions](pendient/)
 - [Jenkins](pendient/)
+- [GitHub Actions](pendient/)
 - [Travis-CI](pendient/)
 
 ## Seguimiento de Problemas
@@ -261,3 +255,4 @@
 ## 📌 Recursos Adicionales
 
 - [Recursos Adicionales](docs/spa/recursos_adicionales/recursos.md)
+- [Cinco W](docs/spa/metologias/cinco_w.md)
