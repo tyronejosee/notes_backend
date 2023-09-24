@@ -29,7 +29,7 @@ El marco de scrum está formado por un conjunto de valores, principios y prácti
 
 Un equipo de scrum es un equipo pequeño y ágil que se dedica a ofrecer incrementos de productos de forma comprometida. El tamaño de un equipo de scrum suele ser pequeño, de unas 10 personas, pero es lo suficientemente grande como para completar una cantidad sustancial de trabajo en un sprint. El equipo de scrum debe componerse de tres cargos específicos: el propietario del producto, el experto en scrum y el equipo de desarrollo. Y, puesto que los equipos de scrum son interdisciplinares, el equipo de desarrollo está formado por evaluadores, diseñadores, especialistas en experiencia de usuario e ingenieros de operaciones, además de desarrolladores.
 
-### El Propietario del Producto (Product Owner)
+### Propietario de Producto (Product Owner)
 
 Los propietarios de producto son quienes más conocen el producto. Están centrados en entender los requisitos empresariales, de los clientes y del mercado, para luego priorizar el trabajo que el equipo de ingeniería debe realizar para cumplirlos. Los propietarios de producto eficaces:
 
@@ -40,13 +40,13 @@ Los propietarios de producto son quienes más conocen el producto. Están centra
 
 El propietario del producto no siempre es el gestor de proyectos. Los propietarios de producto se centran en asegurarse de que el equipo de desarrollo entrega el mayor valor a la empresa. Asimismo, es importante que el propietario de producto sea una única persona. Ningún equipo de desarrollo desea directrices cruzadas de varios propietarios de producto.
 
-### El Experto en Scrum (Scrum Master)
+### Experto en Scrum (Scrum Master)
 
 Los expertos en scrum son los principales especialistas de scrum dentro de sus equipos. Proporcionan formación sobre el proceso de scrum a los equipos, a los propietarios de producto y a la empresa, y buscan formas de perfeccionar esta práctica.
 
 Un experto en scrum eficaz conoce profundamente el trabajo que realiza el equipo y puede ayudarlo a optimizar su transparencia y flujo de entrega. Como conseguidor principal, planifican los recursos necesarios (tanto humanos como logísticos) para organizar los plazos de los sprints, las reuniones rápidas, la revisión de sprints y las retrospectivas de sprints.
 
-### El Equipo de Desarrollo (Team)
+### Equipo de Desarrollo (Team)
 
 Los equipos de scrum sacan el trabajo adelante. Son los que mejor conocen las prácticas de desarrollo sostenible. Los equipos de scrum más eficaces tienen una relación estrecha, se encuentran en la misma ubicación y están compuestos por entre cinco y siete miembros. Una forma de calcular el tamaño del equipo es usar la famosa "regla de las dos pizzas" de Jeff Bezos, el director ejecutivo de Amazon (el equipo debe ser lo suficientemente pequeño como para compartir dos pizzas).
 
@@ -59,15 +59,12 @@ El equipo de scrum impulsa el plan de cada sprint. Prevén cuánto trabajo creen
 Los artefactos de scrum ofrecen información importante que el equipo de scrum utiliza para definir el producto y el trabajo que hay que hacer para crearlo. Existen tres artefactos en scrum: un backlog del producto, un backlog de sprint y un incremento en tu definición de "finalizado". Son las tres constantes sobre las que un equipo de scrum debe reflexionar durante los **sprints** y a lo largo del tiempo.
 
 - **Backlog del Producto**: es la lista principal del trabajo que debe realizar el propietario o el responsable del producto. Se trata de una lista dinámica de funciones, requisitos, mejoras y correcciones que actúa como la base del backlog de sprint. Básicamente, se trata de la lista de "tareas que hay que hacer" del equipo. El propietario del producto está constantemente revisando, cambiando las prioridades y realizando el mantenimiento del backlog del producto, ya que, a medida que sabemos más o que cambia el mercado, es posible que haya elementos que ya no sean relevantes o que los problemas se solucionen de otras maneras.
+
 - **Backlog de Sprint**: se trata de la lista de elementos, **historias de usuario** o correcciones de errores, seleccionadas por el equipo de desarrollo, para su implementación en el ciclo actual de sprint. Antes de cada sprint, en la reunión de planificación de sprint (que analizaremos más adelante en el artículo), el equipo elige los elementos en los que trabajará para el sprint del backlog del producto. El backlog de sprint puede ser flexible y puede evolucionar durante un sprint. No obstante, no se puede poner en peligro el objetivo fundamental del sprint, lo que el equipo quiere lograr con el sprint actual.
 
 - **Incremento** (u objetivo del sprint) es el producto final utilizable de un sprint. En Atlassian, solemos demostrar el "incremento" durante la demostración de fin de sprint, donde el equipo muestra lo que se ha completado en el sprint. Es posible que no escuche la palabra "incremento" en ningún sitio, ya que a menudo se la conoce como la definición del equipo de "Finalizado", un hito, el objetivo del sprint o incluso una versión completa o un **epic lanzado**. Solo depende de la definición de "Finalizado" de tus equipos y de cómo defines tus objetivos del sprint. Por ejemplo, algunos equipos eligen lanzar algo a sus clientes al final de cada sprint. Por tanto, su definición de "finalizado" se correspondería con "lanzado". Sin embargo, es posible que esto no sea realista en otros tipos de equipos. Supongamos que trabajas en un producto basado en servidor que solo se puede lanzar a los clientes cada trimestre. Podrías elegir trabajar en sprints de 2 semanas, pero tu definición de "finalizado" podría corresponderse con la finalización de parte de una versión más grande que planeas lanzar toda junta. Por supuesto, cuanto más se demore el lanzamiento del software, mayor será el riesgo de que el software no cumpla lo que se espera de él.
 
 Como puedes ver, hay muchas variaciones, incluso dentro de los artefactos, que tu equipo puede elegir definir. Por eso es importante estar abierto a la evolución en la forma de mantenimiento, incluso de los artefactos. Tal vez tu definición de "finalizado" hace que tu equipo tenga que deshacer tareas, y necesitas revisarla y elegir una nueva definición.
-
-**CONSEJO DE EXPERTO**:
-
-Debes ser tan ágil con tu marco de trabajo como lo eres con tu producto. Tómate el tiempo que necesites para comprobar cómo van las cosas, hacer los ajustes necesarios y no fuerces las cosas simplemente por razones de uniformidad.
 
 ## Protocolos o Eventos
 
@@ -91,8 +88,6 @@ Al final de la reunión de planificación, cada miembro del equipo de scrum debe
     Sin embargo, hemos observado que esta reunión puede convertirse rápidamente en un momento donde los empleados leen sus agendas del día anterior y del día siguiente. La teoría detrás de la reunión diaria es que las conversaciones que pueden suponer una distracción tengan lugar en la reunión diaria, para que el equipo pueda concentrarse en el trabajo durante el resto del día. Entonces, si se convierte en una lectura en voz alta de la agenda diaria, no tengas miedo de cambiarla y dar rienda suelta a la creatividad.
 5. **Revisión de sprint**: al final del sprint, el equipo se reúne en una sesión informal para ver una demostración o inspeccionar el incremento. El equipo de desarrollo muestra los elementos del backlog que ahora están "finalizados" a las partes interesadas y a los compañeros de equipo para recibir comentarios. El propietario del producto puede decidir si lanza o no el incremento, aunque en la mayoría de los casos el incremento se lanza. Esta reunión de revisión también se produce cuando el propietario del producto repasa el backlog del producto basado en el sprint actual, que se puede utilizar en la próxima sesión de planificación de sprint. Para un sprint de un mes, pon el límite de tu revisión de sprint en un máximo de cuatro horas.
 6. **Retrospectiva de sprint**: la retrospectiva es donde el equipo se reúne para documentar y analizar qué ha funcionado y qué no ha funcionado en un sprint, un proyecto, en las personas o relaciones, herramientas o incluso para determinados protocolos. La idea es crear un lugar donde el equipo pueda centrarse primordialmente en lo que salió bien y en lo que debe mejorarse para la próxima vez, y menos en lo que salió mal.
-
-![https://wac-cdn.atlassian.com/dam/jcr:9567a40e-6541-4905-bf08-dfe201aa80e7/illustrations-spot-Agile.svg?cdnVersion=1191](https://wac-cdn.atlassian.com/dam/jcr:9567a40e-6541-4905-bf08-dfe201aa80e7/illustrations-spot-Agile.svg?cdnVersion=1191)
 
 ## Valores
 
@@ -126,7 +121,7 @@ La fortaleza de un equipo ágil reside en su colaboración y en el reconocimient
 
 ## Scrum, Kanban y la Metodología ágil
 
-Scrum es un marco de trabajo de metodología ágil tan popular que a menudo se confunde scrum y ágil, y se piensa que es lo mismo. También existen otros marcos de trabajo, como **Kanban**, que es una alternativa conocida. Algunas empresas incluso optan por seguir un modelo híbrido de scrum y kanban, que ha adquirido el nombre de "Scrumban o "Kanplan", que es **Kanban con un backlog**.
+Scrum es un marco de trabajo de metodología ágil tan popular que a menudo se confunde scrum y ágil, y se piensa que es lo mismo. También existen otros marcos de trabajo, como Kanban, que es una alternativa conocida. Algunas empresas incluso optan por seguir un modelo híbrido de scrum y kanban, que ha adquirido el nombre de "Scrumban o "Kanplan", que es Kanban con un backlog.
 
 Tanto scrum como kanban utilizan métodos visuales como el tablero de scrum o el tablero de kanban para realizar un seguimiento del progreso del trabajo. Ambos enfatizan la eficiencia y dividen las tareas complejas en bloques más pequeños de trabajo manejable, aunque sus enfoques hacia la consecución del objetivo son diferentes.
 

@@ -6,10 +6,6 @@
 - **Escrito en**: Java
 - **Página**: [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira)
 
-## Nombre
-
-El nombre del producto proviene de la segunda y tercera sílaba de la palabra japonesa pronunciada como Gojira, que significa Godzilla en japonés. El nombre se originó a partir de un apodo que los desarrolladores de Atlassian usaban para referirse a Bugzilla, que anteriormente se utilizaba internamente para el seguimiento de errores.
-
 ## Descripción
 
 JIRA fue una herramienta de código abierto disponible para que cualquiera la descargara. Su popularidad atrajo a miles de usuarios que la adoptaron en organizaciones de todo el mundo. A diferencia de IBM Engineering Management Platform, la herramienta estaba diseñada principalmente para ser utilizada en equipos pequeños e individuos, no en proyectos o empresas grandes. Posteriormente, el producto fue retirado de los servidores de código abierto de alguna manera. Atlassian creó un negocio en torno a este producto. Según Atlassian, Jira se utiliza para el seguimiento de problemas y la gestión de proyectos. Algunas de las organizaciones que han utilizado Jira en algún momento para el seguimiento de errores y la gestión de proyectos incluyen Fedora Commons, Hibernate y la Apache Software Foundation, que utiliza tanto Jira como Bugzilla. Jira incluye herramientas que permiten la migración desde el competidor Bugzilla.
@@ -24,6 +20,10 @@ Jira se ofrece en cuatro paquetes:
 Jira está escrito en Java y utiliza el contenedor de inversión de control Pico, el motor de entidades Apache OFBiz y la pila tecnológica WebWork 1. Para llamadas de procedimiento remoto (RPC), Jira cuenta con interfaces REST, SOAP y XML-RPC. Jira se integra con programas de control de origen como Clearcase, Concurrent Versions System (CVS), Git, Mercurial, Perforce, Subversion y Team Foundation Server. Se proporciona en varias traducciones, incluyendo inglés, francés, alemán, japonés y español.
 
 Jira implementa la API de Mesa de Ayuda en Red para compartir tickets de soporte al cliente con otros sistemas de seguimiento de problemas.
+
+## Nombre
+
+El nombre del producto proviene de la segunda y tercera sílaba de la palabra japonesa pronunciada como Gojira, que significa Godzilla en japonés. El nombre se originó a partir de un apodo que los desarrolladores de Atlassian usaban para referirse a Bugzilla, que anteriormente se utilizaba internamente para el seguimiento de errores.
 
 ## Licencia
 

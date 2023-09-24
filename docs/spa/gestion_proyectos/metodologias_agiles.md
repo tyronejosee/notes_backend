@@ -1,14 +1,10 @@
 # Metodologías Ágiles
 
-Las metodologías ágiles son un conjunto de estrategias enfocadas a gestionar los proyectos con rapidez y flexibilidad. Su implementación supone la constante ejecución de los procesos y su análisis, buscando siempre la innovación y evolución de la empresa.
+## Descripción
 
-La competitividad que exige el mercado actual hace una necesidad la implementación de metodologías que impliquen optimización y rendimiento. En este artículo encontrarás todo lo relacionado con las metodologías ágiles, cuya implementación se hace más que vigente hoy en día.
+Las metodologías ágiles consisten en una serie de estrategias, cuyo principio es la mejora continua empresarial, principalmente aplicadas en el sector del desarrollo de software. La característica que las define es la agilidad de los procesos productivos. Este conjunto recibe el nombre formal de Agile Project Management, es decir, Gestión de Proyectos Ágil.
 
-## ¿Qué son las metodologías Ágiles?
-
-Las metodologías ágiles consisten en una serie de estrategias, cuyo principio es la mejora continua empresarial, principalmente aplicadas en el sector del desarrollo de software. La característica que las define es la agilidad de los procesos productivos. Este conjunto recibe el nombre formal de Agile Project Management, es decir, Gestión de Proyectos Ágil. 
-
-Su aplicación en el mercado tecnológico supone la adaptación de los procesos productivos a las necesidades del mercado del momento. Por lo tanto, su estrategia se traduce en innovación y en una constante renovación de las fórmulas empleadas. 
+Su aplicación en el mercado tecnológico supone la adaptación de los procesos productivos a las necesidades del mercado del momento. Por lo tanto, su estrategia se traduce en innovación y en una constante renovación de las fórmulas empleadas.
 
 Estas metodologías se implementan durante la ejecución de las actividades que contribuyen a la producción de un producto o a la prestación de un servicio. Se toman y se aplican decisiones durante la marcha, por lo que su enfoque es totalmente práctico y activo.
 
@@ -16,25 +12,25 @@ Además, su punto de focalización es el cliente, el indicador de la rentabilida
 
 En efecto, la base de las metodologías ágiles se encuentra en la constante retroalimentación y la comunicación con los potenciales clientes. A partir del frecuente lanzamiento de productos experimentales, se analizan los comentarios y el recibimiento de los mismos para aplicar mejoras a los procedimientos de manera periódica.
 
-## Los 12 principios de Manifiesto Ágil
+## Los 12 Principios de Manifiesto Ágil
 
 El Manifiesto Ágil es un documento redactado por los fundadores del Agile Project Management, donde se incluyen doce principios fundamentales, sobre los que se basan las estrategias que conforman el conjunto de metodologías ágiles. Estos doce principios son:
 
-- **El cliente como objetivo**: la base de todo proyecto debe ser el cliente. Por esta razón, es importante conocer sus opiniones a través del lanzamiento de breves funciones para mejorarlas en la producción del producto final.
-- **Flexibilidad**: los procesos están sujetos a cambios constantemente, de acuerdo a las dificultades que se presenten o a la variación de las demandas y requisitos del proyecto.
-- **Producción de prototipos**: los prototipos o sprints de un proyecto son una serie de funciones presentadas individualmente al público, con el fin de implementar los cambios constantemente en su integración con el producto final.
-- **Integración de los miembros del equipo**: la productividad de una empresa depende también de la correcta integración de los miembros del equipo y sus tareas. En este caso, las relaciones son un aspecto a tener en cuenta.
-- **Motivación**: un equipo motivado garantiza el cumplimiento de los objetivos del proyecto y la calidad de sus resultados.
-- **Comunicación**: este elemento es fundamental con respecto al trabajo en equipo, pues se hace necesario que todos los miembros del proyecto conozcan las decisiones y las necesidades que se presenten para ejecutar, oportunamente, los cambios pertinentes.
-- **Funcionalidad como indicador de progreso**: que el producto funcione correctamente y que se adapte a las necesidades del público, constituye un síntoma de progreso con respecto al desarrollo del proyecto.
-- **Soporte**: establecer medios de soporte y mantenimiento de los productos y servicios garantiza la correcta funcionalidad de los mismos después de haber sido comercializados.
-- **Excelencia**: la excelencia de los procesos productivos propicia la calidad de los resultados, así como la efectividad de los mismos procesos.
-- **Sencillez**: los procesos simples permiten un mayor nivel de control sobre ellos, así como su análisis de manera rápida, identificando los cambios pertinentes que se requieran realizar.
-- **Coordinación**: la interdependencia de las tareas dentro de los procesos productivos de una empresa implica la coordinación de las mismas para el cumplimiento de los objetivos del proyecto.
-- **Aprendizaje**: cada etapa productiva implica un periodo de reflexión sobre la misma, con el fin de analizar qué funcionó y qué no. El aprendizaje constante tanto de los procesos como del entorno permite proponer soluciones y cambios que optimicen la productividad empresarial.
+1. **El Cliente Como Objetivo**: la base de todo proyecto debe ser el cliente. Por esta razón, es importante conocer sus opiniones a través del lanzamiento de breves funciones para mejorarlas en la producción del producto final.
+2. **Flexibilidad**: los procesos están sujetos a cambios constantemente, de acuerdo a las dificultades que se presenten o a la variación de las demandas y requisitos del proyecto.
+3. **Producción de Prototipos**: los prototipos o sprints de un proyecto son una serie de funciones presentadas individualmente al público, con el fin de implementar los cambios constantemente en su integración con el producto final.
+4. **Integración de los miembros del equipo**: la productividad de una empresa depende también de la correcta integración de los miembros del equipo y sus tareas. En este caso, las relaciones son un aspecto a tener en cuenta.
+5. **Motivación**: un equipo motivado garantiza el cumplimiento de los objetivos del proyecto y la calidad de sus resultados.
+6. **Comunicación**: este elemento es fundamental con respecto al trabajo en equipo, pues se hace necesario que todos los miembros del proyecto conozcan las decisiones y las necesidades que se presenten para ejecutar, oportunamente, los cambios pertinentes.
+7. **Funcionalidad como indicador de progreso**: que el producto funcione correctamente y que se adapte a las necesidades del público, constituye un síntoma de progreso con respecto al desarrollo del proyecto.
+8. **Soporte**: establecer medios de soporte y mantenimiento de los productos y servicios garantiza la correcta funcionalidad de los mismos después de haber sido comercializados.
+9. **Excelencia**: la excelencia de los procesos productivos propicia la calidad de los resultados, así como la efectividad de los mismos procesos.
+10. **Sencillez**: los procesos simples permiten un mayor nivel de control sobre ellos, así como su análisis de manera rápida, identificando los cambios pertinentes que se requieran realizar.
+11. **Coordinación**: la interdependencia de las tareas dentro de los procesos productivos de una empresa implica la coordinación de las mismas para el cumplimiento de los objetivos del proyecto.
+12. **Aprendizaje**: cada etapa productiva implica un periodo de reflexión sobre la misma, con el fin de analizar qué funcionó y qué no. El aprendizaje constante tanto de los procesos como del entorno permite proponer soluciones y cambios que optimicen la productividad empresarial.
 Aunque estos principios, inicialmente, fueron planteados para y por desarrolladores de software, su aplicación se extiende a cualquier ámbito empresarial, pues la competitividad es un aspecto más que relevante a tener en cuenta en el mercado actual.
 
-## Tipos de metodologías Ágiles
+## Tipos
 
 Las metodologías ágiles son, como se ha mencionado, un conjunto de estrategias, cuyos enfoques particulares hacen que unas se adapten de mejor manera y con resultados más óptimos que otras. La siguiente es una lista de metodologías que se desempeñan de una u otra manera en el campo productivo empresarial:  
 
@@ -62,7 +58,7 @@ El método Agile Inception propicia la iniciativa de las actividades y proposici
 
 Esta metodología se trata de diseñar un prototipo, o sprints, del producto final, con el fin de mostrarse al público esperando de él la retroalimentación necesaria para la continuación del proyecto.
 
-## Pasos y etapas de las metodologías Ágiles
+## Pasos y Etapas
 
 Las metodologías ágiles están diseñadas para implementarse de manera periódica y cíclica, de manera que la empresa establezca nuevos objetivos y mejore sus procesos de manera constante. Existen una serie de pasos recomendados para la implementación de estas metodologías, los cuales son:
 
@@ -75,7 +71,7 @@ Aunque las metodologías ágiles no presentan un esquema específico a seguir, c
 
 Al finalizar la implementación de un ciclo, se repite el proceso nuevamente, verificando los resultados y proponiendo nuevos cambios de acuerdo al contexto actual.
 
-## Principales roles en las metodologías Ágiles
+## Principales Roles
 
 Dentro de la implementación de las metodologías ágiles existen ciertos roles cuyas funciones individuales permiten que los procesos y las estrategias se ejecuten de manera correcta. Estos son:
 
@@ -84,9 +80,7 @@ Dentro de la implementación de las metodologías ágiles existen ciertos roles 
 - Project Manager: es aquel que gestiona el proyecto en ejecución, lo que implica conocer cada uno de los procesos y actividades para responder a las situaciones que se presenten.
 - Product Owner: se encarga del correcto desarrollo de un producto en específico.
 
-## Ventajas y desventajas de las metodologías Ágiles
-
-### Los beneficios de las metodologías Ágiles
+## Ventajas
 
 - Propicia la innovación y constante renovación de la empresa.
 - Su implementación garantiza un mayor nivel competitivo.
@@ -95,13 +89,13 @@ Dentro de la implementación de las metodologías ágiles existen ciertos roles 
 - Agiliza la producción.
 - Garantiza la calidad de los productos y servicios.
 
-### Las desventajas de las metodologías Ágiles
+## Desventajas
 
 - Su implementación debe ser periódica y cíclica para obtener los resultados deseados.
 - Se debe analizar constantemente el escenario del mercado.
 - Al propiciar los cambios dentro del proyecto, se mantiene cierto riesgo a nivel productivo y en la secuencia de las actividades.
 
-## ¿Cómo aplicar la metodología Ágil a tu proyecto o empresa?
+## Aplicación
 
 Lo principal es identificar las necesidades del mercado y de los clientes. Las metodologías ágiles están diseñadas para implementarse en el sector informático, por lo que en este caso se analizan las nuevas tecnologías y funcionalidades presentes en el sector, así como las soluciones en desarrollo para los problemas actuales. Sin embargo, su aplicación se extiende hasta cualquier ámbito empresarial.
 
@@ -117,17 +111,3 @@ Siguiendo el esquema previamente previamente expuesto, la aplicación de la meto
 8. Lanzamiento del prototipo.
 9. Análisis de la retroalimentación.
 10. Aplicación de cambios.
-
-## Plantillas para la aplicación de Metodologías Ágiles
-
-### Plantilla método Tablero Kanban en Excel
-
-El método Kanban destaca entre el conjunto de metodologías ágiles por su facilidad al implementarse como estrategia de gestión de proyectos. Es un método simple y gráfico, y por esta razón te ofrecemos la plantilla método Tablero Kanban en Excel, que te permitirá llevar un control preciso de todos los procesos de tu proyecto de manera eficaz y ágil. 
-
-### Plantilla Ciclo PDCA (ciclo de mejora continua)
-
-En un mundo tan competitivo como el actual, el buen manejo del tiempo y la eficacia son elementos imprescindibles para el éxito de una empresa. Sabemos esto y por ello te ofrecemos una plantilla con todas las características y beneficios del Ciclo PDCA, con lo que podrás ahorrar tiempo y concentrarte en otros aspectos.
-
-### Plantilla gestión y administración de proyectos método Scrum
-
-La gestión y la administración son una parte fundamental en el desarrollo de cualquier proyecto, pues garantiza su rentabilidad y la obtención de beneficios. Por ello, te ofrecemos una plantilla con todas las características propias de la metodología Scrum para que tengas un mayor control de tus flujos de trabajo.
