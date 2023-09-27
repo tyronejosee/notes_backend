@@ -18,7 +18,7 @@
     <a href="https://github.com/tyronejosee/docs_backend/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-## 🌎 Infraestructura de Internet
+## 🌎 Fundamentos de Internet
 
 - [Internet](pendient/)
 - [WEB](pendient/)
@@ -26,13 +26,10 @@
 - [Dominios](pendient/)
 - [Hosting](pendient/)
 
-## 🌐 Redes de Comunicación
+## 🌐 Redes y Protocolos
 
 - [Modelo OSI](docs/spa/redes_comunicacion/modelo_osi.md)
 - [Modelo TCP/IP](docs/spa/redes_comunicacion/modelo_tcp_ip.md)
-
-## Protocolos de Red
-
 - [HTTP/S](docs/spa/protocolos_red/http_s.md)
 - [DNS](docs/spa/protocolos_red/dns.md)
 - [SMTP](docs/spa/protocolos_red/smtp.md)
@@ -43,7 +40,7 @@
 - [SSH](docs/spa/protocolos_red/ssh.md)
 - [WebSockets](docs/spa/protocolos_red/websockets.md)
 
-## 📜 Conceptos de Programación
+##  Conceptos de Programación
 
 - [Lenguajes de Programación](docs/spa/lenguajes_programacion/lenguajes_programación.md)
 - Programación Asíncrona
@@ -52,7 +49,7 @@
 - [Concurrency](pendient/)
 - [Parallelism](pendient/)
 
-## Lenguajes de Programación
+## 📜 Lenguajes de Programación
 
 - [Python](docs/spa/lenguajes_programacion/python.md)
 
@@ -66,6 +63,8 @@
 
 - [Git](docs/spa/control_versiones/git.md)W
 - [GitHub](docs/spa/control_versiones/github.md)
+- [GitLab](pending/)
+- [BitBucker](pending/)
 
 ## 🖥️ Sistemas Operativos
 
@@ -138,7 +137,7 @@
 - [Mejores Prácticas de Seguridad para las APIs](pendient/)
 - [CORS](docs/spa/seguridad_web/cors.md)
 
-## Vulnerabilidades
+## ⚠️ Vulnerabilidades
 
 - [XSS](docs/spa//vulnerabilidades/xss.md)
 - [CSRF](docs/spa/vulnerabilidades/csrf.md)
@@ -162,18 +161,12 @@
 
 ## ♾️ CI/CD
 
-- [Integración Continua/Implementación Continua](pendient/)
+- [CI/CD](pendient/)
 - [Jenkins](pendient/)
-- [GitHub Actions](pendient/)
 - [Travis-CI](pendient/)
+- [GitHub Actions](pendient/)
 
-## Seguimiento de Problemas
-
-- [GitHub Issues](pendient/)
-- [JIRA](pendient/)
-- [Redmine](pendient/)
-
-## Diagramas UML
+## ➡️ Diagramas UML
 
 - [UML](docs/spa/diagramas_uml/uml.md)
 - [Diagrama de Clases](docs/spa/diagramas_uml/diagrama_clases.md)
@@ -190,7 +183,16 @@
 - [CQRS (Command Query Responsability Segregation)](pendient/)
 - [Event Sourcing](pendient/)
 
-## Patrones de Diseño
+## 💡 Patrones de Diseño
+
+- [Patrón MVC](pendient/)
+- [Patrón Middleware](pendient/)
+- [Patrón Singleton](pendient/)
+- [Patrón Repository](pendient/)
+- [Patrón Filter](pendient/)
+- [Patrón Observer](pendient/)
+- [Patrón Strategy](pendient/)
+- [Patrón Chain of Responsability](pendient/)
 
 ## 🏛️ Patrones de Arquitectura
 
@@ -219,7 +221,7 @@
 - [Docker](pendient/)
 - [LXC](pendient/)
 
-## ☁️ Servidores Web
+## 🚀 Servidores Web
 
 - [Servidores Web](pendient/)
 - [Nginx](pendient/)
@@ -227,7 +229,7 @@
 - [Caddy](pendient/)
 - [Microsoft IIS](pendient/)
 
-## 🚀 Proveedores de Nube
+## ☁️ Hosting
 
 - [AWS](docs/spa/proveedores_nube/aws.md)
 - [Google Cloud](docs/spa/proveedores_nube/google_cloud.md)
@@ -239,7 +241,7 @@
 - [Vultr](docs/spa/proveedores_nube/vultr.md)
 - [Render](docs/spa/proveedores_nube/render.md)
 
-## 🎨 Tecnologías Frontend (Opcional)
+## 🎨 Frontend (Opcional)
 
 - [HTML](docs/spa/frontend/html.md)
 - [CSS](docs/spa/frontend/css.md)
@@ -253,7 +255,7 @@
 - [SPA](docs/spa/frontend/spa.md)
 - [PWA](docs/spa/frontend/pwa.md)
 
-## 📌 Recursos Adicionales
+## 📌 Recursos
 
 - [Recursos Adicionales](docs/spa/recursos_adicionales/recursos.md)
 - [Cinco W](docs/spa/metologias/cinco_w.md)
