@@ -18,7 +18,7 @@
     <a href="https://github.com/tyronejosee/docs_backend/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-## 🌎 Fundamentos de Internet
+## 🌎 Internet
 
 - [Internet](pendient/)
 - [WEB](pendient/)
@@ -26,7 +26,7 @@
 - [Dominios](pendient/)
 - [Hosting](pendient/)
 
-## 🌐 Redes y Protocolos
+## 🌐 Redes
 
 - [Modelo OSI](docs/spa/redes_comunicacion/modelo_osi.md)
 - [Modelo TCP/IP](docs/spa/redes_comunicacion/modelo_tcp_ip.md)
@@ -40,7 +40,7 @@
 - [SSH](docs/spa/protocolos_red/ssh.md)
 - [WebSockets](docs/spa/protocolos_red/websockets.md)
 
-##  Conceptos de Programación
+## 📜 Lenguajes de Programación
 
 - [Lenguajes de Programación](docs/spa/lenguajes_programacion/lenguajes_programación.md)
 - Programación Asíncrona
@@ -48,9 +48,6 @@
 - [asyncio](pendient/)
 - [Concurrency](pendient/)
 - [Parallelism](pendient/)
-
-## 📜 Lenguajes de Programación
-
 - [Python](docs/spa/lenguajes_programacion/python.md)
 
 ## 💼 Frameworks
@@ -166,7 +163,7 @@
 - [Travis-CI](pendient/)
 - [GitHub Actions](pendient/)
 
-## ➡️ Diagramas UML
+## ➡️ Diagramas
 
 - [UML](docs/spa/diagramas_uml/uml.md)
 - [Diagrama de Clases](docs/spa/diagramas_uml/diagrama_clases.md)
@@ -245,11 +242,10 @@
 
 - [HTML](docs/spa/frontend/html.md)
 - [CSS](docs/spa/frontend/css.md)
-  - [SASS](docs/spa/frontend/sass.md)
-  - [Bootstrap](docs/spa/frontend/bootstrap.md)
-  - [TailwindCSS](docs/spa/frontend/tailwindcss.md)
+- [SASS](docs/spa/frontend/sass.md)
+- [Bootstrap](docs/spa/frontend/bootstrap.md)
+- [TailwindCSS](docs/spa/frontend/tailwindcss.md)
 - [JavaScript](docs/spa/frontend/javascript.md)
-  - [NPM](docs/spa/frontend/npm.md)
 - [TypeScript](docs/spa/frontend/typescript.md)
 - [Webpack](docs/spa/frontend/webpack.md)
 - [SPA](docs/spa/frontend/spa.md)
