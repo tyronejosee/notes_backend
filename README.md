@@ -32,14 +32,14 @@
 - [SSH](docs/spa/protocolos_red/ssh.md)
 - [WebSockets](docs/spa/protocolos_red/websockets.md)
 
-## 📜 Lenguajes de Programación
+## Web
 
-- [Lenguajes de Programación](docs/spa/lenguajes_programacion/lenguajes_programación.md)
-- Programación Asíncrona
-- [async/await](pendient/)
-- [asyncio](pendient/)
-- [Concurrency](pendient/)
-- [Parallelism](pendient/)
+- [HTML](docs/spa/frontend/html.md)
+- [CSS](docs/spa/frontend/css.md)
+- [JavaScript](pending)
+
+## 📜 [Lenguajes de Programación](docs/spa/lenguajes_programacion/lenguajes_programación.md)
+
 - [Python](docs/spa/lenguajes_programacion/python.md)
 
 ## 💼 Frameworks
@@ -57,10 +57,9 @@
 
 ## 🖥️ Sistemas Operativos
 
+- [Windows](pendient/)
 - [Linux](pendient/)
-- [Terminal](pendient/)
 - [POSIX](pendient/)
-- [Comandos](pendient/)
 - [Sistemas Operativos](pendient/)
   - [Cómo Funcionan los SO en General](pendient/)
   - [Gestión de Memoria](pendient/)
@@ -69,6 +68,10 @@
   - [Conceptos Básicos de Redes](pendient/)
   - [Hilos y Concurrencia](pendient/)
   - [Gestión de Procesos](pendient/)
+
+## [Terminal](pendient/)
+
+- [Comandos](pendient/)
 
 ## 🗂️ Bases de Datos
 
@@ -117,13 +120,13 @@
 - [Redis](docs/spa/bases_datos/redis.md)
 - [Memcached](docs/spa/cache/memcached.md)
 
-## 🔒 Seguridad Web
+## 🔒 [Seguridad Web](pendient/)
 
 - [Algoritmos de Hashing](pendient/)
 - [Mejores Prácticas de Seguridad para las APIs](pendient/)
 - [CORS](docs/spa/seguridad_web/cors.md)
 
-## ⚠️ Vulnerabilidades
+## ⚠️ [Vulnerabilidades](pendient/)
 
 - [XSS](docs/spa//vulnerabilidades/xss.md)
 - [CSRF](docs/spa/vulnerabilidades/csrf.md)
@@ -144,9 +147,8 @@
 - [Trello](pending)
 - [Notion](pending)
 
-## ♾️ CI/CD
+## ♾️ [CI/CD](pendient/)
 
-- [CI/CD](pendient/)
 - [Jenkins](pendient/)
 - [Travis-CI](pendient/)
 - [GitHub Actions](pendient/)
@@ -193,9 +195,8 @@
 - [Elacticsearch](pendient/)
 - [SoIr](pendient/)
 
-## ✉️ Brókers de Mensajería
+## ✉️ [Brokers de Mensajería](docs/spa/brokers_mensajeria/broker_mensajeria.md)
 
-- [Patrón Broker de Mensajería](docs/spa/brokers_mensajeria/broker_mensajeria.md)
 - [Patrón Publicador-Suscriptor](docs/spa/brokers_mensajeria/publicador_suscriptor.md)
 - [RabbitMQ](docs/spa/brokers_mensajeria/rabbitmq.md)
 - [Apache Kafka](docs/spa/brokers_mensajeria/apache_kafka.md)
@@ -206,15 +207,14 @@
 - [Docker](pendient/)
 - [LXC](pendient/)
 
-## 🚀 Servidores Web
+## 🚀 [Servidores Web](pendient/)
 
-- [Servidores Web](pendient/)
 - [Nginx](pendient/)
 - [Apache](pendient/)
 - [Caddy](pendient/)
 - [Microsoft IIS](pendient/)
 
-## ☁️ Hosting
+## ☁️ [Hosting](pendient/) 
 
 - [AWS](docs/spa/proveedores_nube/aws.md)
 - [Google Cloud](docs/spa/proveedores_nube/google_cloud.md)
@@ -228,8 +228,6 @@
 
 ## 🎨 Frontend (Opcional)
 
-- [HTML](docs/spa/frontend/html.md)
-- [CSS](docs/spa/frontend/css.md)
 - [SASS](docs/spa/frontend/sass.md)
 - [Bootstrap](docs/spa/frontend/bootstrap.md)
 - [TailwindCSS](docs/spa/frontend/tailwindcss.md)
@@ -241,5 +239,5 @@
 
 ## 📌 Recursos
 
-- [Recursos Adicionales](docs/spa/recursos_adicionales/recursos.md)
+- [Recursos](docs/spa/recursos_adicionales/recursos.md)
 - [Cinco W](docs/spa/metologias/cinco_w.md)
