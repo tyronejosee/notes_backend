@@ -18,14 +18,6 @@
     <a href="https://github.com/tyronejosee/docs_backend/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-## 🌎 Internet
-
-- [Internet](pendient/)
-- [WEB](pendient/)
-- [Navegadores](pendient/)
-- [Dominios](pendient/)
-- [Hosting](pendient/)
-
 ## 🌐 Redes
 
 - [Modelo OSI](docs/spa/redes_comunicacion/modelo_osi.md)
@@ -58,7 +50,7 @@
 
 ## 🗃️ Control de Versiones
 
-- [Git](docs/spa/control_versiones/git.md)W
+- [Git](docs/spa/control_versiones/git.md)
 - [GitHub](docs/spa/control_versiones/github.md)
 - [GitLab](pending/)
 - [BitBucker](pending/)
@@ -81,7 +73,6 @@
 ## 🗂️ Bases de Datos
 
 - [Bases de Datos](pendient/)
-- [Sistemas Gestores de Bases de Datos](pendient/)
 - [SQL](pendient/)
 - [ORMs](pendient/)
 - [ACID y Transactions](pendient/)
@@ -98,9 +89,8 @@
 - [Redis](docs/spa/bases_datos/redis.md)
 - [Neo4j](docs/spa/bases_datos/neo4j.md)
 
-## 🔗 APIs
+## 🔗 [APIs](docs/spa/apis/api.md)
 
-- [API](docs/spa/apis/api.md)
 - [REST](docs/spa/apis/rest.md)
 - [JSON APIs](docs/spa/apis/json_apis.md)
 - [SOAP](docs/spa/apis/soap.md)
@@ -119,9 +109,8 @@
 - [Postman](docs/spa/apis/postman.md)
 - [Swagger](docs/spa/apis/swagger.md)
 
-## 💽 Caché
+## 💽 [Caching](docs/spa/cache/caching.md)
 
-- [Caching](docs/spa/cache/caching.md)
 - [Lado del Cliente](docs/spa/cache/lado_cliente.md)
 - [Lado del Servidor](docs/spa/cache/lado_servidor.md)
 - [CDN](docs/spa/cache/cdn.md)
@@ -140,9 +129,8 @@
 - [CSRF](docs/spa/vulnerabilidades/csrf.md)
 - [Inyección SQL](docs/spa/vulnerabilidades/inyeccion_sql.md)
 
-## ✅ Pruebas
+## ✅ [Pruebas](docs/spa/pruebas/pruebas.md)
 
-- [Pruebas](docs/spa/pruebas/pruebas.md)
 - [Pruebas Unitarias](docs/spa/pruebas/pruebas_unitarias.md)
 - [Pruebas de Integración](docs/spa/pruebas/pruebas_integracion.md)
 - [Pruebas Funcionales](docs/spa/pruebas/pruebas_funcionales.md)
