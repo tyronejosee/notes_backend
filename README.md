@@ -20,23 +20,23 @@
 
 ## 🌐 Redes
 
-- [Modelo OSI](docs/spa/redes_comunicacion/modelo_osi.md)
-- [Modelo TCP/IP](docs/spa/redes_comunicacion/modelo_tcp_ip.md)
-- [HTTP/S](docs/spa/protocolos_red/http_s.md)
-- [DNS](docs/spa/protocolos_red/dns.md)
-- [SMTP](docs/spa/protocolos_red/smtp.md)
-- [POP3/IMAP](docs/spa/protocolos_red/pop3.md)
-- [IMAP](docs/spa/protocolos_red/imap.md)
-- [MQTT](docs/spa/protocolos_red/mqtt.md)
-- [FTP](docs/spa/protocolos_red/ftp.md)
-- [SSH](docs/spa/protocolos_red/ssh.md)
-- [WebSockets](docs/spa/protocolos_red/websockets.md)
+- [Modelo OSI](docs/spa/redes/modelo_osi.md)
+- [Modelo TCP/IP](docs/spa/redes/modelo_tcp_ip.md)
+- [HTTP/S](docs/spa/redes/http_s.md)
+- [DNS](docs/spa/redes/dns.md)
+- [SMTP](docs/spa/redes/smtp.md)
+- [POP3/IMAP](docs/spa/redes/pop3.md)
+- [IMAP](docs/spa/redes/imap.md)
+- [MQTT](docs/spa/redes/mqtt.md)
+- [FTP](docs/spa/redes/ftp.md)
+- [SSH](docs/spa/redes/ssh.md)
+- [WebSockets](docs/spa/redes/websockets.md)
 
 ## Web
 
-- [HTML](docs/spa/frontend/html.md)
-- [CSS](docs/spa/frontend/css.md)
-- [JavaScript](pending)
+- [HTML](docs/spa/web/html.md)
+- [CSS](docs/spa/web/css.md)
+- [JavaScript](docs/spa/web/javascript.md)
 
 ## 📜 [Lenguajes de Programación](docs/spa/lenguajes_programacion/lenguajes_programación.md)
 
@@ -48,7 +48,7 @@
 - [Flask](docs/spa/frameworks/flask.md)
 - [FastAPI](docs/spa/frameworks/fastapi.md)
 
-## 🗃️ Control de Versiones
+## 🗃️ [Control de Versiones](docs/spa/control_versiones/control_versiones.md)
 
 - [Git](docs/spa/control_versiones/git.md)
 - [GitHub](docs/spa/control_versiones/github.md)
@@ -73,15 +73,15 @@
 
 - [Comandos](pendient/)
 
-## 🗂️ Bases de Datos
+## 🗂️ [Bases de Datos](docs/spa/bases_datos/)
 
-- [Bases de Datos](pendient/)
-- [SQL](pendient/)
-- [ORMs](pendient/)
-- [ACID y Transactions](pendient/)
-- [Problema N+1 en Consultas](pendient/)
-- [Normalización y Redundancia](pendient/)
-- [Fallas y Estrategias de Recuperación](pendient/)
+- [SQL](docs/spa/bases_datos/sql.md)
+- [ORMs](docs/spa/bases_datos/orms.md)
+- [ACID](docs/spa/bases_datos/acid.md)
+- [Problema N+1](docs/spa/bases_datos/n_1_problem.md)
+- [Normalización](docs/spa/bases_datos/normalizacion.md)
+- Redundancia
+- [Fallas y Estrategias de Recuperación](docs/spa/bases_datos/modos_fallo.md)
 - [Optimización y Profiling](pendient/)
 - [PostgreSQL](docs/spa/bases_datos/postgresql.md)
 - [MySQL](docs/spa/bases_datos/postgresql.md)
@@ -140,18 +140,18 @@
 
 ## Gestión de Proyectos
 
-- [Metodologías Agíles](docs/spa/metologias/scrum.md)
-- [Scrum](docs/spa/metologias/scrum.md)
-- [KanBan](docs/spa/metologias/kanban.md)
-- [Jira](pending)
-- [Trello](pending)
-- [Notion](pending)
+- [Metodologías Agíles](docs/spa/gestion_proyectos/scrum.md)
+- [Scrum](docs/spa/gestion_proyectos/scrum.md)
+- [KanBan](docs/spa/gestion_proyectos/kanban.md)
+- [Jira](docs/spa/gestion_proyectos/jira.md)
+- [Trello](docs/spa/gestion_proyectos/trello.md)
+- [Notion](docs/spa/gestion_proyectos/notion.md)
 
-## ♾️ [CI/CD](pendient/)
+## ♾️ [CI/CD](docs/spa/cicd/cicd.md)
 
-- [Jenkins](pendient/)
-- [Travis-CI](pendient/)
-- [GitHub Actions](pendient/)
+- [Jenkins](docs/spa/cicd/jenkins.md)
+- [Travis-CI](docs/spa/cicd/travis_ci.md)
+- [GitHub Actions](docs/spa/cicd/github_actions.md)
 
 ## ➡️ Diagramas
 
@@ -164,11 +164,11 @@
 
 ## 📐 Principios de Diseño y Desarrollo
 
-- [GOF Design Patterns](pendient/)
-- [Diseño Guíado por Dominio](pendient/)
-- [Desarrollo Guíado por Pruebas](pendient/)
-- [CQRS (Command Query Responsability Segregation)](pendient/)
-- [Event Sourcing](pendient/)
+- [GOF Design Patterns](docs/spa/principios_diseno_desarrollo/gof_design_pattern.md)
+- [Diseño Guíado por Dominio](docs/spa/principios_diseno_desarrollo/diseno_guiado_dominio.md)
+- [Desarrollo Guíado por Pruebas](docs/spa/principios_diseno_desarrollo/desarrollo_guiado_pruebas.md)
+- [CQRS](docs/spa/principios_diseno_desarrollo/cqrs.md)
+- [Event Sourcing](docs/spa/principios_diseno_desarrollo/event_sourcing.md)
 
 ## 💡 Patrones de Diseño
 
@@ -183,17 +183,17 @@
 
 ## 🏛️ Patrones de Arquitectura
 
-- [Aplicaciones Monolíticas](pendient/)
-- [Microservicios](pendient/)
-- [SOA](pendient/)
-- [Serverless](pendient/)
-- [Malla de Servicios](pendient/)
-- [Twelve Factor Apps](pendient/)
+- [Aplicaciones Monolíticas](docs/spa/patrones_arquitectura/aplicaciones_monoliticas.md)
+- [Microservicios](docs/spa/patrones_arquitectura/microservicios.md)
+- [SOA](docs/spa/patrones_arquitectura/soa.md)
+- [Serverless](docs/spa/patrones_arquitectura/serverless.md)
+- [Malla de Servicios](docs/spa/patrones_arquitectura/malla_servicios.md)
+- [Twelve Factor Apps](docs/spa/patrones_arquitectura/twelve_factor_apps.md)
 
-## 🔍 Motores de Búsqueda
+## 🔍 [Motores de Búsqueda](docs/spa/motores_busqueda/motores_busqueda.md)
 
-- [Elacticsearch](pendient/)
-- [SoIr](pendient/)
+- [Elacticsearch](docs/spa/motores_busqueda/elasticsearch.md)
+- [SoIr](docs/spa/motores_busqueda/soir.md)
 
 ## ✉️ [Brokers de Mensajería](docs/spa/brokers_mensajeria/broker_mensajeria.md)
 
@@ -203,9 +203,9 @@
 
 ## 📦 Contenedores
 
-- [Kubernetes](pendient/)
-- [Docker](pendient/)
-- [LXC](pendient/)
+- [Kubernetes](docs/spa/contenedores/kubernetes.md)
+- [Docker](docs/spa/contenedores/docker.md)
+- [LXC](docs/spa/contenedores/lxc.md)
 
 ## 🚀 [Servidores Web](pendient/)
 
@@ -214,7 +214,7 @@
 - [Caddy](pendient/)
 - [Microsoft IIS](pendient/)
 
-## ☁️ [Hosting](pendient/) 
+## ☁️ [Hosting](pendient/)
 
 - [AWS](docs/spa/proveedores_nube/aws.md)
 - [Google Cloud](docs/spa/proveedores_nube/google_cloud.md)
@@ -224,14 +224,12 @@
 - [Linode](docs/spa/proveedores_nube/linode.md)
 - [Heroku](docs/spa/proveedores_nube/heroku.md)
 - [Vultr](docs/spa/proveedores_nube/vultr.md)
-- [Render](docs/spa/proveedores_nube/render.md)
 
 ## 🎨 Frontend (Opcional)
 
 - [SASS](docs/spa/frontend/sass.md)
 - [Bootstrap](docs/spa/frontend/bootstrap.md)
 - [TailwindCSS](docs/spa/frontend/tailwindcss.md)
-- [JavaScript](docs/spa/frontend/javascript.md)
 - [TypeScript](docs/spa/frontend/typescript.md)
 - [Webpack](docs/spa/frontend/webpack.md)
 - [SPA](docs/spa/frontend/spa.md)
@@ -239,5 +237,5 @@
 
 ## 📌 Recursos
 
-- [Recursos](docs/spa/recursos_adicionales/recursos.md)
-- [Cinco W](docs/spa/metologias/cinco_w.md)
+- [Recursos](docs/spa/recursos/recursos.md)
+- [Cinco W](docs/spa/recursos/cinco_w.md)
