@@ -137,3 +137,121 @@
 - PWA
 - TypeScript
 - ...etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## HTML
+
+- Estructura básica de documentos HTML
+- Etiquetas principales
+- Semántica
+- Atributos
+- Estructura de la página (Layout)
+- Entidades
+- Formularios
+- Multimedia
+- Eventos
+
+## CSS
+
+- Introducción a CSS
+- Sintaxis y selectores
+- Modelo de caja
+- Fuentes y tipografías
+- Colores y backgrounds
+- Visibilidad y posicionamiento
+- Técnicas de layout (Flexbox, Grid)
+- Transiciones y animaciones
+- Diseño responsive
+- Variables CSS
+- Preprocesadores CSS (SASS, Less)
+
+## JavaScript
+
+- Estructura básica de JavaScript
+- Estructuras de control
+- Funciones
+- Alcance (Scope) y clausura (Clousure)
+- Arrays
+- Objetos
+- Manipulación del DOM
+- Gestión de eventos
+- Promesas y Async/Await
+- AJAX y Fetch API
+
+## React
+
+- Introducción a React
+- JSX y componentes
+- Props y estados
+- Ciclo de vida de los componentes
+- Hooks
+- Routing
+- Integración API
+- Formularios y validación
+- Estilos
+- Gestión de estado global
+- Optimización de rendimiento
+
+---
+
+## Metadatos
+
+- **Desarrollador(es)**: Apache Software Foundation
+- **Lanzamiento**: 0000
+- **Licencia**: Apache 2.0
+- **Escrito en**: Java
+- **Página**: [https://cassandra.apache.org/](https://cassandra.apache.org/)
+- **Documentación**: [https://cassandra.apache.org/doc/](https://cassandra.apache.org/doc/)
+- **Repositorio**: [https://github.com/apache/cassandra](https://github.com/apache/cassandra)
+
+---
+
+## Librerías de Python
+
+os y os.path: El módulo os proporciona funciones para interactuar con el sistema operativo, incluyendo operaciones relacionadas con archivos y directorios. os.path se utiliza para trabajar con rutas de archivo y directorio de manera segura en diferentes sistemas operativos.
+
+io: El módulo io proporciona herramientas para trabajar con flujos de entrada y salida, como leer y escribir datos desde y hacia archivos.
+
+open: La función open() es una función incorporada que se utiliza para abrir archivos en diferentes modos (lectura, escritura, añadir, etc.). Retorna un objeto de archivo que se puede usar para interactuar con el archivo.
+
+shutil: El módulo shutil permite realizar operaciones de más alto nivel en archivos y directorios, como copiar, mover y eliminar.
+
+glob: El módulo glob se utiliza para buscar archivos que coincidan con ciertos patrones en un directorio.
+
+json: Si trabajas con archivos JSON, el módulo json es esencial para leer y escribir datos en formato JSON.
+
+csv: Para archivos CSV (valores separados por comas), el módulo csv es útil para leer y escribir datos en este formato.
+
+pickle: El módulo pickle permite serializar objetos de Python en un formato binario, lo que es útil para guardar objetos complejos en archivos.
+
+pathlib: A partir de Python 3.4, el módulo pathlib proporciona una interfaz más orientada a objetos y moderna para manipular rutas y archivos.
+
+sqlite3: Si deseas trabajar con bases de datos SQLite, el módulo sqlite3 es una excelente opción para el manejo de bases de datos incorporadas en archivos.
+
+requests: Si estás interesado en descargar archivos desde Internet, el módulo requests es perfecto para realizar solicitudes HTTP y descargar contenido.
+
+zipfile: Si necesitas trabajar con archivos comprimidos en formato ZIP, el módulo zipfile te permitirá extraer y crear archivos ZIP.
+
+tarfile: Similar al zipfile, pero para archivos comprimidos en formato TAR.
+
+pathlib: Este módulo proporciona una interfaz más moderna y orientada a objetos para trabajar con rutas de archivos y directorios.
