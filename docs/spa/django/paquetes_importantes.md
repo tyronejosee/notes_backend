@@ -1,0 +1,38 @@
+# Paquetes Importantes
+
+- django-split-settings (https://sobolevn.me/2017/04/managing-djangos-settings)
+- django-allauth (social auth)
+- django-rest-auth (for drf)
+- django-braces (mixins)
+- django-compressor (for static files)
+- django-countries (country fields)
+- django-crispy-forms (render forms)
+- django-db-mailer
+- django-el-pagination
+- django-extensions (shell_plus, jobs, ...etc)
+- drf-extra-fields (Base64Fields)
+- django-filters
+- django-fsm (state machine)
+- django-jet (admin styles and template)
+- django-modeltranslation
+- django-newsletter
+- django-phonenumber-field
+- django-push-notifications
+- django-solo
+- django-treebeard
+- PyJWT
+- django-redis
+- django-wkhtmltopdf
+- django-import-export
+- sentry-sdk
+- django-ckeditor
+- geopy (locating)
+- django-rest-knox (auth)
+- drf-spectacular (swagger)
+- easy-thumbnails
+- django-oscar
+- django-oscar-api
+- django-oscar-invoices
+- django-debug-toolbar
+- pytest-django
+- pytest-cov

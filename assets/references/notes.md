@@ -152,51 +152,7 @@
 
 
 
-
-
-
-
-
 ---
-
-## HTML
-
-- Estructura básica de documentos HTML
-- Etiquetas principales
-- Semántica
-- Atributos
-- Estructura de la página (Layout)
-- Entidades
-- Formularios
-- Multimedia
-- Eventos
-
-## CSS
-
-- Introducción a CSS
-- Sintaxis y selectores
-- Modelo de caja
-- Fuentes y tipografías
-- Colores y backgrounds
-- Visibilidad y posicionamiento
-- Técnicas de layout (Flexbox, Grid)
-- Transiciones y animaciones
-- Diseño responsive
-- Variables CSS
-- Preprocesadores CSS (SASS, Less)
-
-## JavaScript
-
-- Estructura básica de JavaScript
-- Estructuras de control
-- Funciones
-- Alcance (Scope) y clausura (Clousure)
-- Arrays
-- Objetos
-- Manipulación del DOM
-- Gestión de eventos
-- Promesas y Async/Await
-- AJAX y Fetch API
 
 ## React
 

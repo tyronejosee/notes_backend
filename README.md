@@ -18,35 +18,51 @@
     <a href="https://github.com/tyronejosee/docs_backend/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-## 🌐 Redes
+# Habilidades
 
-- [Modelo OSI](docs/spa/redes/modelo_osi.md)
-- [Modelo TCP/IP](docs/spa/redes/modelo_tcp_ip.md)
-- [HTTP/S](docs/spa/redes/http_s.md)
-- [DNS](docs/spa/redes/dns.md)
-- [SMTP](docs/spa/redes/smtp.md)
-- [POP3/IMAP](docs/spa/redes/pop3.md)
-- [IMAP](docs/spa/redes/imap.md)
-- [MQTT](docs/spa/redes/mqtt.md)
-- [FTP](docs/spa/redes/ftp.md)
-- [SSH](docs/spa/redes/ssh.md)
-- [WebSockets](docs/spa/redes/websockets.md)
+## [Gestión](pendient/)
 
-## Web
+- [Metodologías Agíles](docs/spa/gestion_proyectos/scrum.md)
+- [Scrum](docs/spa/gestion_proyectos/scrum.md)
+- [KanBan](docs/spa/gestion_proyectos/kanban.md)
+- [Jira](docs/spa/gestion_proyectos/jira.md)
+- [Trello](docs/spa/gestion_proyectos/trello.md)
+- [Notion](docs/spa/gestion_proyectos/notion.md)
+
+# Backend
+
+## 📝 [Tecnologías Web](pendient/)
 
 - [HTML](docs/spa/web/html.md)
 - [CSS](docs/spa/web/css.md)
 - [JavaScript](docs/spa/web/javascript.md)
 
-## 📜 [Lenguajes de Programación](docs/spa/lenguajes_programacion/lenguajes_programación.md)
+## 📜 [Lenguajes para Backend](docs/spa/lenguajes_programacion/lenguajes_programación.md)
 
+- Java
 - [Python](docs/spa/lenguajes_programacion/python.md)
+- C#
+- Ruby
+- PHP
+- Rust
 
-## 💼 Frameworks
+## [Python](pendient/)
 
-- [Django](docs/spa/frameworks/django.md)
-- [Flask](docs/spa/frameworks/flask.md)
-- [FastAPI](docs/spa/frameworks/fastapi.md)
+- Sintaxis Básica
+- Entornos Virtuales
+- 💼 [Frameworks Web](pendient/)
+  - [Django](docs/spa/frameworks/django.md)
+  - [Flask](docs/spa/frameworks/flask.md)
+  - [FastAPI](docs/spa/frameworks/fastapi.md)
+
+## [Django](pendient/)
+
+- Arquitectura Básica
+
+## [Flask](pendient/)
+
+- Arquitectura Básica
+- Paquetes Importantes
 
 ## 🗃️ [Control de Versiones](docs/spa/control_versiones/control_versiones.md)
 
@@ -55,10 +71,11 @@
 - [GitLab](pending/)
 - [BitBucker](pending/)
 
-## 🖥️ Sistemas Operativos
+## 🖥️ [Sistemas Operativos](pendient/)
 
 - [Windows](pendient/)
 - [Linux](pendient/)
+- [Unix](pendient/)
 - [POSIX](pendient/)
 - [Sistemas Operativos](pendient/)
   - [Cómo Funcionan los SO en General](pendient/)
@@ -68,12 +85,46 @@
   - [Conceptos Básicos de Redes](pendient/)
   - [Hilos y Concurrencia](pendient/)
   - [Gestión de Procesos](pendient/)
+- [Terminal](pendient/)
+  - [Comandos](pendient/)
 
-## [Terminal](pendient/)
+## 🌐 [Redes y Protocolos](pendient/)
 
-- [Comandos](pendient/)
+- [Modelo OSI](docs/spa/redes/modelo_osi.md)
+- [Modelo TCP/IP](docs/spa/redes/modelo_tcp_ip.md)
+- [DNS](docs/spa/redes/dns.md)
+- [HTTP](docs/spa/redes/http_s.md)
+- TLS & HTTPS
+- SOCKETS
+- [WebSockets](docs/spa/redes/websockets.md)
+- [SSH](docs/spa/redes/ssh.md)
+
+- [FTP](docs/spa/redes/ftp.md)
+- [SMTP](docs/spa/redes/smtp.md)
+- [POP3/IMAP](docs/spa/redes/pop3.md)
+- [IMAP](docs/spa/redes/imap.md)
+- [MQTT](docs/spa/redes/mqtt.md)
 
 ## 🗂️ [Bases de Datos](docs/spa/bases_datos/)
+
+- SQL vs NoSQL databases
+- Normalization vs Denormalization
+- Entity Relationship Model
+  - DDL (Data Definition Language)
+  - DML (Data Manipulation Language)
+  - DQL (Data Query Language)
+  - DCL (Data Control Language)
+- Locking
+- ACID Model
+- CAP Theorem
+- BASE Model
+- BASE Model
+- Views
+- Transactions
+- Stored Procedures
+- Database Federation
+- Replication
+- Sharding
 
 - [SQL](docs/spa/bases_datos/sql.md)
 - [ORMs](docs/spa/bases_datos/orms.md)
@@ -83,6 +134,7 @@
 - Redundancia
 - [Fallas y Estrategias de Recuperación](docs/spa/bases_datos/modos_fallo.md)
 - [Optimización y Profiling](pendient/)
+
 - [PostgreSQL](docs/spa/bases_datos/postgresql.md)
 - [MySQL](docs/spa/bases_datos/postgresql.md)
 - [MongoDB](docs/spa/bases_datos/mongodb.md)
@@ -112,6 +164,23 @@
 - [Postman](docs/spa/apis/postman.md)
 - [Swagger](docs/spa/apis/swagger.md)
 
+## ⚠️ [Vulnerabilidades](pendient/)
+
+- [Inyección SQL](docs/spa/vulnerabilidades/inyeccion_sql.md)
+- [XSS](docs/spa//vulnerabilidades/xss.md)
+- [CSRF](docs/spa/vulnerabilidades/csrf.md)
+
+## 🔒 [Seguridad](pendient/)
+
+- Public Key Cryptography
+- Hashing/Ecncryption/Encoding
+- Hashing Algorithms
+- OWASP Top 10
+
+- [Algoritmos de Hashing](pendient/)
+- [Mejores Prácticas de Seguridad para las APIs](pendient/)
+- [CORS](docs/spa/seguridad_web/cors.md)
+
 ## 💽 [Caching](docs/spa/cache/caching.md)
 
 - [Lado del Cliente](docs/spa/cache/lado_cliente.md)
@@ -120,32 +189,11 @@
 - [Redis](docs/spa/bases_datos/redis.md)
 - [Memcached](docs/spa/cache/memcached.md)
 
-## 🔒 [Seguridad Web](pendient/)
-
-- [Algoritmos de Hashing](pendient/)
-- [Mejores Prácticas de Seguridad para las APIs](pendient/)
-- [CORS](docs/spa/seguridad_web/cors.md)
-
-## ⚠️ [Vulnerabilidades](pendient/)
-
-- [XSS](docs/spa//vulnerabilidades/xss.md)
-- [CSRF](docs/spa/vulnerabilidades/csrf.md)
-- [Inyección SQL](docs/spa/vulnerabilidades/inyeccion_sql.md)
-
 ## ✅ [Pruebas](docs/spa/pruebas/pruebas.md)
 
 - [Pruebas Unitarias](docs/spa/pruebas/pruebas_unitarias.md)
 - [Pruebas de Integración](docs/spa/pruebas/pruebas_integracion.md)
 - [Pruebas Funcionales](docs/spa/pruebas/pruebas_funcionales.md)
-
-## Gestión de Proyectos
-
-- [Metodologías Agíles](docs/spa/gestion_proyectos/scrum.md)
-- [Scrum](docs/spa/gestion_proyectos/scrum.md)
-- [KanBan](docs/spa/gestion_proyectos/kanban.md)
-- [Jira](docs/spa/gestion_proyectos/jira.md)
-- [Trello](docs/spa/gestion_proyectos/trello.md)
-- [Notion](docs/spa/gestion_proyectos/notion.md)
 
 ## ♾️ [CI/CD](docs/spa/cicd/cicd.md)
 
@@ -153,24 +201,32 @@
 - [Travis-CI](docs/spa/cicd/travis_ci.md)
 - [GitHub Actions](docs/spa/cicd/github_actions.md)
 
-## ➡️ Diagramas
+## 🚀 [Servidores](pendient/)
 
-- [UML](docs/spa/diagramas_uml/uml.md)
-- [Diagrama de Clases](docs/spa/diagramas_uml/diagrama_clases.md)
-- [Diagrama de Casos de Uso](docs/spa/diagramas_uml/diagrama_casos_uso.md)
-- [Diagrama de Actividad](docs/spa/diagramas_uml/diagrama_actividad.md)
-- [Diagrama de Máquina de Estados](docs/spa/diagramas_uml/diagrama_maquina_estados.md)
-- [Diagrama de Secuencia](docs/spa/diagramas_uml/diagrama_secuencia.md)
+- [Nginx](pendient/)
+- [Apache](pendient/)
+- [Caddy](pendient/)
+- [Microsoft IIS](pendient/)
 
-## 📐 Principios de Diseño y Desarrollo
+## ☁️ [Hosting](pendient/)
 
+- [AWS](docs/spa/proveedores_nube/aws.md)
+- [Google Cloud](docs/spa/proveedores_nube/google_cloud.md)
+- [Azure](docs/spa/proveedores_nube/azure.md)
+- [Digital Ocean](docs/spa/proveedores_nube/digital_ocean.md)
+
+# Software
+
+## 📐 [Principios de Diseño y Desarrollo](pendient/)
+
+- [Diagramas UML](docs/spa/diagramas_uml/uml.md)
 - [GOF Design Patterns](docs/spa/principios_diseno_desarrollo/gof_design_pattern.md)
 - [Diseño Guíado por Dominio](docs/spa/principios_diseno_desarrollo/diseno_guiado_dominio.md)
 - [Desarrollo Guíado por Pruebas](docs/spa/principios_diseno_desarrollo/desarrollo_guiado_pruebas.md)
 - [CQRS](docs/spa/principios_diseno_desarrollo/cqrs.md)
 - [Event Sourcing](docs/spa/principios_diseno_desarrollo/event_sourcing.md)
 
-## 💡 Patrones de Diseño
+## 💡 [Patrones de Diseño](pendient/)
 
 - [Patrón MVC](pendient/)
 - [Patrón Middleware](pendient/)
@@ -181,7 +237,7 @@
 - [Patrón Strategy](pendient/)
 - [Patrón Chain of Responsability](pendient/)
 
-## 🏛️ Patrones de Arquitectura
+## 🏛️ [Patrones de Arquitectura](pendient/)
 
 - [Aplicaciones Monolíticas](docs/spa/patrones_arquitectura/aplicaciones_monoliticas.md)
 - [Microservicios](docs/spa/patrones_arquitectura/microservicios.md)
@@ -201,41 +257,46 @@
 - [RabbitMQ](docs/spa/brokers_mensajeria/rabbitmq.md)
 - [Apache Kafka](docs/spa/brokers_mensajeria/apache_kafka.md)
 
-## 📦 Contenedores
+## Monitoreo
 
-- [Kubernetes](docs/spa/contenedores/kubernetes.md)
+## Logs
+
+## 📦 [Contenedores](pendient/)
+
 - [Docker](docs/spa/contenedores/docker.md)
 - [LXC](docs/spa/contenedores/lxc.md)
+- [Kubernetes](docs/spa/contenedores/kubernetes.md)
 
-## 🚀 [Servidores Web](pendient/)
-
-- [Nginx](pendient/)
-- [Apache](pendient/)
-- [Caddy](pendient/)
-- [Microsoft IIS](pendient/)
-
-## ☁️ [Hosting](pendient/)
-
-- [AWS](docs/spa/proveedores_nube/aws.md)
-- [Google Cloud](docs/spa/proveedores_nube/google_cloud.md)
-- [Azure](docs/spa/proveedores_nube/azure.md)
-- [Digital Ocean](docs/spa/proveedores_nube/digital_ocean.md)
-- [Alibaba Cloud](docs/spa/proveedores_nube/alibaba_cloud.md)
-- [Linode](docs/spa/proveedores_nube/linode.md)
-- [Heroku](docs/spa/proveedores_nube/heroku.md)
-- [Vultr](docs/spa/proveedores_nube/vultr.md)
-
-## 🎨 Frontend (Opcional)
+## 🎨 Micelaneos (Opcional)
 
 - [SASS](docs/spa/frontend/sass.md)
 - [Bootstrap](docs/spa/frontend/bootstrap.md)
 - [TailwindCSS](docs/spa/frontend/tailwindcss.md)
 - [TypeScript](docs/spa/frontend/typescript.md)
 - [Webpack](docs/spa/frontend/webpack.md)
-- [SPA](docs/spa/frontend/spa.md)
 - [PWA](docs/spa/frontend/pwa.md)
 
 ## 📌 Recursos
 
 - [Recursos](docs/spa/recursos/recursos.md)
-- [Cinco W](docs/spa/recursos/cinco_w.md)
+
+----
+
+## [Diseño de Sistema](pendient/)
+
+- Horizontal vs Vertical Scaling
+- Load Balancing
+
+- Clustering
+- Content Delivery Network (CDN)
+- CAP Theorem
+
+- Caching
+- Proxy
+- Queues
+
+- Cloud Design Patterns
+  - Long Polling
+  - Short Polling
+  - Web Sockets
+  - Server Sent Events

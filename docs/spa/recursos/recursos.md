@@ -1,46 +1,44 @@
-# Recursos Adicionales
-
-## Aplicaciones
-
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [ChatGPT](http://chat.openai.com/)
-- [Notion](https://www.notion.so/)
-- [Pending](pending)
-- [Pending](pending)
-- [Pending](pending)
+# Recursos
 
 ## Plataformas
 
-- [Platzi (ESP)](https://platzi.com/)
+- [Udemy](https://www.udemy.com/)
+- [Domestika](https://www.domestika.org/es)
+- [Platzi](https://platzi.com/)
+- [EDteam](https://ed.team/)
 - [Coursera](https://www.coursera.org/)
 - [DataCamp (ENG)](https://www.datacamp.com/)
-- [Pending](pending)
-- [Pending](pending)
+- [FreeCodeCamp (ENG)](https://www.freecodecamp.org/)
 
 ## Páginas
 
-- [Roadmap](https://roadmap.sh/)
+- [W3schools (ENG)](https://www.w3schools.com/)
+- [Roadmap (ENG)](https://roadmap.sh/)
+- [JavatPoint (ENG)](https://www.javatpoint.com/)
 - [Refactoring.Guru](https://refactoring.guru/es)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [Pending](pending)
-- [Pending](pending)
+- [GeeksforGeeks (ENG)](https://www.geeksforgeeks.org/)
+- [LeatCode (ENG)](https://leetcode.com/user6910iA/)
+- [Stack Overflow (ENG)](https://stackoverflow.com/)
 
 ## Creadores
 
-- [Pending](pending)
-- [Pending](pending)
-- [Pending](pending)
+- [Developer. pe](https://www.youtube.com/@Developerpe)
+- [pildorasinformaticas](https://www.youtube.com/@pildorasinformaticas)
+- [Fazt](https://www.youtube.com/@FaztTech)
+- [jonmircha](https://www.youtube.com/@jonmircha)
+- [MoureDev by Brais Moure](https://www.youtube.com/@mouredev)
+- [DesarrolloWeb.com](https://www.youtube.com/@deswebcom)
+- [Solo Python](https://www.youtube.com/@SoloPython)
+- [Vida MRR - Programacion web](https://www.youtube.com/@vidamrr)
 
-## Repositorios
+## Cursos
 
-- [Django Roadmap](https://github.com/HHHMHA/django-roadmap)
-- [Pending](pending)
-- [Pending](pending)
-- [Pending](pending)
+- [Developer. pe - Curso Django 2](https://www.youtube.com/playlist?list=PLMbRqrU_kvbTGg_oUKXyWi63Mo9Yoot9K)
 
 ## Personalización
 
 - [Oh My Posh](https://ohmyposh.dev/)
-- [Pending](pending)
-- [Pending](pending)
-- [Pending](pending)
+
+## Conceptos
+
+- [Cinco W](docs/spa/recursos/cinco_w.md)
