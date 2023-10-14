@@ -8,17 +8,11 @@
 </p>
 
 <p align="center">
-  Backend Developer: Python
-  <br>
-  Conceptos claves que debes considerar.
-<p>
-
-<p align="center">
     <a href="#"><img src="https://img.shields.io/badge/contributions-yes-blue" alt="Contruibutions"></a>
     <a href="https://github.com/tyronejosee/docs_backend/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
-# Habilidades
+# Backend Developer: Python
 
 ## [Gestión](pendient/)
 
@@ -28,8 +22,6 @@
 - [Jira](docs/spa/gestion_proyectos/jira.md)
 - [Trello](docs/spa/gestion_proyectos/trello.md)
 - [Notion](docs/spa/gestion_proyectos/notion.md)
-
-# Backend
 
 ## 📝 [Tecnologías Web](pendient/)
 
@@ -46,23 +38,18 @@
 - PHP
 - Rust
 
-## [Python](pendient/)
+## 🐍 [Python](pendient/)
 
 - Sintaxis Básica
 - Entornos Virtuales
-- 💼 [Frameworks Web](pendient/)
-  - [Django](docs/spa/frameworks/django.md)
-  - [Flask](docs/spa/frameworks/flask.md)
-  - [FastAPI](docs/spa/frameworks/fastapi.md)
+- [Frameworks Web](pendient/)
+- Otros Lenguajes
 
 ## [Django](pendient/)
 
 - Arquitectura Básica
-
-## [Flask](pendient/)
-
-- Arquitectura Básica
 - Paquetes Importantes
+- Djanjo Rest Framework
 
 ## 🗃️ [Control de Versiones](docs/spa/control_versiones/control_versiones.md)
 
@@ -71,20 +58,12 @@
 - [GitLab](pending/)
 - [BitBucker](pending/)
 
-## 🖥️ [Sistemas Operativos](pendient/)
+## 🖥️ [Sistemas Operativos](docs/spa/sistemas_operativos/sistemas_operativos.md)
 
 - [Windows](pendient/)
 - [Linux](pendient/)
 - [Unix](pendient/)
 - [POSIX](pendient/)
-- [Sistemas Operativos](pendient/)
-  - [Cómo Funcionan los SO en General](pendient/)
-  - [Gestión de Memoria](pendient/)
-  - [Comunicación entre Procesos](pendient/)
-  - [Gestión de Entrada/Salida (IO)](pendient/)
-  - [Conceptos Básicos de Redes](pendient/)
-  - [Hilos y Concurrencia](pendient/)
-  - [Gestión de Procesos](pendient/)
 - [Terminal](pendient/)
   - [Comandos](pendient/)
 
@@ -108,6 +87,25 @@
 ## 🗂️ [Bases de Datos](docs/spa/bases_datos/)
 
 - SQL vs NoSQL databases
+- [PostgreSQL](docs/spa/bases_datos/postgresql.md)
+- [MySQL](docs/spa/bases_datos/postgresql.md)
+- [MongoDB](docs/spa/bases_datos/mongodb.md)
+- [InfluxDB](docs/spa/bases_datos/influxdb.md)
+- [Firebase](docs/spa/bases_datos/firebase.md)
+- [Cassandra](docs/spa/bases_datos/apache_cassandra.md)
+- [Redis](docs/spa/bases_datos/redis.md)
+- [Neo4j](docs/spa/bases_datos/neo4j.md)
+
+More:
+
+- [SQL](docs/spa/bases_datos/sql.md)
+- [ORMs](docs/spa/bases_datos/orms.md)
+- [ACID](docs/spa/bases_datos/acid.md)
+- [Problema N+1](docs/spa/bases_datos/n_1_problem.md)
+- [Normalización](docs/spa/bases_datos/normalizacion.md)
+- Redundancia
+- [Fallas y Estrategias de Recuperación](docs/spa/bases_datos/modos_fallo.md)
+- [Optimización y Profiling](pendient/)
 - Normalization vs Denormalization
 - Entity Relationship Model
   - DDL (Data Definition Language)
@@ -118,31 +116,12 @@
 - ACID Model
 - CAP Theorem
 - BASE Model
-- BASE Model
 - Views
 - Transactions
 - Stored Procedures
 - Database Federation
 - Replication
 - Sharding
-
-- [SQL](docs/spa/bases_datos/sql.md)
-- [ORMs](docs/spa/bases_datos/orms.md)
-- [ACID](docs/spa/bases_datos/acid.md)
-- [Problema N+1](docs/spa/bases_datos/n_1_problem.md)
-- [Normalización](docs/spa/bases_datos/normalizacion.md)
-- Redundancia
-- [Fallas y Estrategias de Recuperación](docs/spa/bases_datos/modos_fallo.md)
-- [Optimización y Profiling](pendient/)
-
-- [PostgreSQL](docs/spa/bases_datos/postgresql.md)
-- [MySQL](docs/spa/bases_datos/postgresql.md)
-- [MongoDB](docs/spa/bases_datos/mongodb.md)
-- [InfluxDB](docs/spa/bases_datos/influxdb.md)
-- [Firebase](docs/spa/bases_datos/firebase.md)
-- [Cassandra](docs/spa/bases_datos/apache_cassandra.md)
-- [Redis](docs/spa/bases_datos/redis.md)
-- [Neo4j](docs/spa/bases_datos/neo4j.md)
 
 ## 🔗 [APIs](docs/spa/apis/api.md)
 
@@ -161,8 +140,6 @@
   - [JWT](docs/spa/apis/jwt.md)
   - [OpenID](docs/spa/apis/openid.md)
   - [SAML](docs/spa/apis/saml.md)
-- [Postman](docs/spa/apis/postman.md)
-- [Swagger](docs/spa/apis/swagger.md)
 
 ## ⚠️ [Vulnerabilidades](pendient/)
 
@@ -174,9 +151,7 @@
 
 - Public Key Cryptography
 - Hashing/Ecncryption/Encoding
-- Hashing Algorithms
 - OWASP Top 10
-
 - [Algoritmos de Hashing](pendient/)
 - [Mejores Prácticas de Seguridad para las APIs](pendient/)
 - [CORS](docs/spa/seguridad_web/cors.md)
@@ -215,8 +190,6 @@
 - [Azure](docs/spa/proveedores_nube/azure.md)
 - [Digital Ocean](docs/spa/proveedores_nube/digital_ocean.md)
 
-# Software
-
 ## 📐 [Principios de Diseño y Desarrollo](pendient/)
 
 - [Diagramas UML](docs/spa/diagramas_uml/uml.md)
@@ -227,15 +200,6 @@
 - [Event Sourcing](docs/spa/principios_diseno_desarrollo/event_sourcing.md)
 
 ## 💡 [Patrones de Diseño](pendient/)
-
-- [Patrón MVC](pendient/)
-- [Patrón Middleware](pendient/)
-- [Patrón Singleton](pendient/)
-- [Patrón Repository](pendient/)
-- [Patrón Filter](pendient/)
-- [Patrón Observer](pendient/)
-- [Patrón Strategy](pendient/)
-- [Patrón Chain of Responsability](pendient/)
 
 ## 🏛️ [Patrones de Arquitectura](pendient/)
 
@@ -267,7 +231,9 @@
 - [LXC](docs/spa/contenedores/lxc.md)
 - [Kubernetes](docs/spa/contenedores/kubernetes.md)
 
-## 🎨 Micelaneos (Opcional)
+# Micelaneos
+
+## 🎨 Frontend (Opcional)
 
 - [SASS](docs/spa/frontend/sass.md)
 - [Bootstrap](docs/spa/frontend/bootstrap.md)
@@ -279,24 +245,3 @@
 ## 📌 Recursos
 
 - [Recursos](docs/spa/recursos/recursos.md)
-
-----
-
-## [Diseño de Sistema](pendient/)
-
-- Horizontal vs Vertical Scaling
-- Load Balancing
-
-- Clustering
-- Content Delivery Network (CDN)
-- CAP Theorem
-
-- Caching
-- Proxy
-- Queues
-
-- Cloud Design Patterns
-  - Long Polling
-  - Short Polling
-  - Web Sockets
-  - Server Sent Events
