@@ -29,21 +29,11 @@
 - [CSS](docs/spa/web/css.md)
 - [JavaScript](docs/spa/web/javascript.md)
 
-## 📜 [Lenguajes para Backend](docs/spa/lenguajes_programacion/lenguajes_programación.md)
-
-- Java
-- [Python](docs/spa/lenguajes_programacion/python.md)
-- C#
-- Ruby
-- PHP
-- Rust
-
 ## 🐍 [Python](pendient/)
 
 - Sintaxis Básica
 - Entornos Virtuales
 - [Frameworks Web](pendient/)
-- Otros Lenguajes
 
 ## [Django](pendient/)
 
@@ -55,17 +45,13 @@
 
 - [Git](docs/spa/control_versiones/git.md)
 - [GitHub](docs/spa/control_versiones/github.md)
-- [GitLab](pending/)
-- [BitBucker](pending/)
 
 ## 🖥️ [Sistemas Operativos](docs/spa/sistemas_operativos/sistemas_operativos.md)
 
-- [Windows](pendient/)
 - [Linux](pendient/)
 - [Unix](pendient/)
 - [POSIX](pendient/)
 - [Terminal](pendient/)
-  - [Comandos](pendient/)
 
 ## 🌐 [Redes y Protocolos](pendient/)
 
@@ -103,25 +89,8 @@ More:
 - [ACID](docs/spa/bases_datos/acid.md)
 - [Problema N+1](docs/spa/bases_datos/n_1_problem.md)
 - [Normalización](docs/spa/bases_datos/normalizacion.md)
-- Redundancia
 - [Fallas y Estrategias de Recuperación](docs/spa/bases_datos/modos_fallo.md)
 - [Optimización y Profiling](pendient/)
-- Normalization vs Denormalization
-- Entity Relationship Model
-  - DDL (Data Definition Language)
-  - DML (Data Manipulation Language)
-  - DQL (Data Query Language)
-  - DCL (Data Control Language)
-- Locking
-- ACID Model
-- CAP Theorem
-- BASE Model
-- Views
-- Transactions
-- Stored Procedures
-- Database Federation
-- Replication
-- Sharding
 
 ## 🔗 [APIs](docs/spa/apis/api.md)
 
@@ -162,7 +131,6 @@ More:
 - [Lado del Servidor](docs/spa/cache/lado_servidor.md)
 - [CDN](docs/spa/cache/cdn.md)
 - [Redis](docs/spa/bases_datos/redis.md)
-- [Memcached](docs/spa/cache/memcached.md)
 
 ## ✅ [Pruebas](docs/spa/pruebas/pruebas.md)
 
@@ -180,8 +148,6 @@ More:
 
 - [Nginx](pendient/)
 - [Apache](pendient/)
-- [Caddy](pendient/)
-- [Microsoft IIS](pendient/)
 
 ## ☁️ [Hosting](pendient/)
 
@@ -228,7 +194,6 @@ More:
 ## 📦 [Contenedores](pendient/)
 
 - [Docker](docs/spa/contenedores/docker.md)
-- [LXC](docs/spa/contenedores/lxc.md)
 - [Kubernetes](docs/spa/contenedores/kubernetes.md)
 
 # Micelaneos
