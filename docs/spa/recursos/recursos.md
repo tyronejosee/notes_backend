@@ -12,13 +12,28 @@
 
 ## Páginas
 
-- [W3schools (ENG)](https://www.w3schools.com/)
 - [Roadmap (ENG)](https://roadmap.sh/)
 - [JavatPoint (ENG)](https://www.javatpoint.com/)
 - [Refactoring.Guru](https://refactoring.guru/es)
 - [GeeksforGeeks (ENG)](https://www.geeksforgeeks.org/)
 - [LeatCode (ENG)](https://leetcode.com/user6910iA/)
-- [Stack Overflow (ENG)](https://stackoverflow.com/)
+- [OverAPI (ENG)](https://overapi.com/)
+- [VISUALGO (ENG)](https://visualgo.net/en)
+- [RapidAPI (ENG)](https://rapidapi.com/hub)
+- [regular expressions 101 (ENG)](https://regex101.com/)
+- [Landing Love (ENG)](https://www.landing.love/)
+- [Screen Size Map (ENG)](https://screensizemap.com/)
+- [Cofolios (ENG)](https://www.cofolios.com/)
+- [AppSeed (ENG)](https://appseed.us/generator/)
+- [FullStack Café (ENG)](https://www.fullstack.cafe/)
+- [Any API (ENG)](https://any-api.com/)
+- [Shield (ENG)](https://shields.io/)
+- [Google Domains (ENG)](https://domains.google/)
+- [Let's Encrypt)](https://letsencrypt.org/es/)
+- [Render (ENG)](https://render.com/)
+- [fl0 (ENG)](https://www.fl0.com/)
+- [Google Trends)](https://trends.google.es/trends/)
+- [EXCALIDRAW (ENG))](https://excalidraw.com/)
 
 ## Creadores
 
