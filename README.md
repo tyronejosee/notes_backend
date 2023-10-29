@@ -118,9 +118,6 @@ More:
 
 ## 🔒 [Seguridad](pendient/)
 
-- Public Key Cryptography
-- Hashing/Ecncryption/Encoding
-- OWASP Top 10
 - [Algoritmos de Hashing](pendient/)
 - [Mejores Prácticas de Seguridad para las APIs](pendient/)
 - [CORS](docs/spa/seguridad_web/cors.md)
@@ -144,7 +141,7 @@ More:
 - [Travis-CI](docs/spa/cicd/travis_ci.md)
 - [GitHub Actions](docs/spa/cicd/github_actions.md)
 
-## 🚀 [Servidores](pendient/)
+## 🚀 [Servidores Web](pendient/)
 
 - [Nginx](pendient/)
 - [Apache](pendient/)
